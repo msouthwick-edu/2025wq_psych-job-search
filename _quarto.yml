@@ -1,18 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Searching for Work: The Psychology Undergraduate Guide"
-  search: true
-  contents:
-    - text: "Overview"
-      href: index.qmd
-    - section: "Chapter 1: Where to Search?"
-      href: ch-01_where-to-search.qmd
-    - text: "Chapter 2: How to Search?"
-      href: ch-02_how-to-search.qmd
-    - text: "Chapter 3: What Comes Up?"
-      href: ch-03_what-comes-up.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Overview"
+        href: index.qmd
+      - section: "Chapter 1: Where to Search?"
+        href: ch-01_where-to-search.qmd
+      - text: "Chapter 2: How to Search?"
+        href: ch-02_how-to-search.qmd
+      - text: "Chapter 3: What Comes Up?"
+        href: ch-03_what-comes-up.qmd
       
 format:
   html:
