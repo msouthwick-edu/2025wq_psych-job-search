@@ -4,6 +4,8 @@ subtitle: 'Identifying relevant places for jobs'
 author: Maia L. Southwick
 date: "2024-12-19"
 format: html
+toc: true
+number-sections: true
 ---
 # Chapter Overview
 For this workshop, we will be going over how to navigate the (mostly virtual) landscape as a job seeker. Below are categories for how someone may come across a job opportunity:

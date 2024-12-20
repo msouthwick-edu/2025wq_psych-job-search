@@ -4,6 +4,9 @@ subtitle: 'Learning and implementing search strategies'
 author: Maia L. Southwick
 date: "2024-12-19"
 format: html
+toc: true
+number-sections: true
+
 ---
 
 # How to search?
