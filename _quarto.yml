@@ -10,7 +10,7 @@ website:
     contents:
       - text: "Overview"
         href: index.qmd
-      - section: "Chapter 1: Where to Search?"
+      - text: "Chapter 1: Where to Search?"
         href: ch-01_where-to-search.qmd
       - text: "Chapter 2: How to Search?"
         href: ch-02_how-to-search.qmd
