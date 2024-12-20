@@ -1,0 +1,30 @@
+---
+title: "Ch. 3: What comes up in the search?"
+subtitle: 'Unpacking job descriptions'
+author: Maia L. Southwick
+date: "2024-12-19"
+format: html
+project:
+  output-dir: 
+---
+# What comes up in the search? - Job Ads
+
+### What goes into a job description?
+
+### Factors to Consider
+
+Geographic location, pay, benefits
+
+# Suggested Next Steps
+
+
+- Develop a *really* good initial version of your resume
+  - [UCD Career Center Resume Help](https://careercenter.ucdavis.edu/resumes-and-materials/resumes)
+- Practice interviews!
+- Navigating the interview process & job offers
+- Be wary of job scams ([more info here](https://careercenter.ucdavis.edu/job-and-internship-search/job-scams))
+
+# Additional Resources
+
+- [UCD Career Center](https://careercenter.ucdavis.edu/)
+

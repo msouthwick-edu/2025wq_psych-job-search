@@ -1,0 +1,80 @@
+---
+title: "Ch. 2: How to Search?"
+subtitle: 'Learning and implementing search strategies'
+author: Maia L. Southwick
+date: "2024-12-19"
+format: html
+---
+
+# How to search?
+
+## The Job Search Mindset
+
+**Be...**
+
+- Open-minded:
+- Cautious:
+- Patient (with yourself):
+
+**Maintain...**
+
+- Social support networks:
+- A regular routine:
+
+### Resources
+
+- Student Counseling
+- Career Center
+- Advisors
+- Family/Friends
+
+
+## LinkedIn: Navigating the "Jobs" Section
+
+### Search Terms
+
+Below is a sample set of keywords for different job types, generated from ChatGPT (OpenAI, 2024). 
+
+Here is what I asked ChatGPT, *"What are some related keywords to a behavior technician position?"*. It generated keywords related to the role I was interested in (Behavior Technician), skills, work environment, and more. For our purposes, we will use the 'General Role Keywords' to plug into our LinkedIn search. 
+
+However, the other keyword output could also be helpful when you're trying to craft a resume as long as you're accurately and honestly representing your skills and experiences. Sometimes recruiters and hiring managers use automated programs to filter resumes (for better or for worse ~~cough cough~~), and so having relevant keywords in your resume could be helpful.
+
+
+| Job Type    | Keywords                                               |
+| ----------- | ------------------------------------------------------ |
+| Behavior Technician   |  applied behavioral analysis, registered behavior technician, behavioral therapy, intervnetion specialist, autism spectrum disorder |
+| Others
+
+A list of relevant, entry-level job titles can be found [here (for Psychology)](https://careercenter.ucdavis.edu/career-discovery/undergraduate-students/what-can-i-do/majors-data?mcid=191) and [here (for Cognitive Science)](https://careercenter.ucdavis.edu/career-discovery/undergraduate-students/what-can-i-do/majors-data?mcid=269). You can loop some of the titles listed into your search strategy.
+
+
+#### Research Roles
+
+The term 'research' in job search land is pretty broad. Across all fields and industries, there is research being done. This means when typing in 
+
+<!--- engagement opportunity, have them ask ChatGPT a question, we'll use a live example for the run-through --->
+
+### Filtering
+
+### Setting Up Search Alerts
+
+1. Main way
+
+2. As mentioned earlier, if there's an organization that you're interested in, you can "Follow" an organization. 
+    a. You can either follow the people associated with the organization who may be likely to re-post job ads. You can find these by going to the 'People' tab. *OR, to avoid spamming your homepage with strangers' posts...*
+    b. You can go to the 'Jobs' page, click on 'Create job alert', and put in the type of roles you're interested in and what locations you'd be open to working at. 
+    c. Be sure to review the types of positions that individuals under the 'People' tab may have that you're interested in and determine where common work locations are (either what's listed as the head quarters location under company's name or in the 'About' tab).
+    
+<!--- Insert image here with all the above components highlighted. --->
+
+
+<!---This will be an active engagement portion; have them sign-up for an organization they may be interested in. Be sure to give some examples. I can 'create a job alert' as a walkthrough.--->
+
+### Pro-tips
+
+- **Being quick to apply is in your favor** if a submission deadline is not specified. However, ensure you're submitting quality materials for the application. We will not be covering crafting a resume in full for this workshop.
+
+
+# References
+
+OpenAI. (2024). ChatGPT (December 19 version). OpenAI. https://openai.com

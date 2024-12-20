@@ -1,0 +1,92 @@
+---
+title: "Chapter 1: Where to Search?"
+subtitle: 'Identifying relevant places for jobs'
+author: Maia L. Southwick
+date: "2024-12-19"
+format: html
+---
+# Chapter Overview
+For this workshop, we will be going over how to navigate the (mostly virtual) landscape as a job seeker. Below are categories for how someone may come across a job opportunity:
+
+1. **Job boards/banks**: These can either be an open online community where hiring managers and companies post job ads, closed community spaces with job postings, or job ad aggregation sites which scrape the internet for posted job ads on other sites. An example of an aggregation site is the 'Jobs' tab on Google search results pages. *Sometimes these aggregation sites highlight jobs that are no longer available, so be mindful when using these.*
+2. **Organizations' career pages**: Depending on the size and technical scope of a company/organization, their website may have a 'Careers Page' or 'Job Portal'. Through these, you can sometimes sign-up to be notified when a new position is posted.
+3. **Events**: In-person or virtual events where you can talk one-on-one with an organization
+4. **Networking and informal announcements**: Receiving or being referred to positions via social connections or being a member of a community
+5. **Cold outreach**: Directly reaching out to an organization or recruiter and asking for positions. A 'recruiter' is someone whose job is to find job candidates for a company.
+
+
+# 1.1 Common Job Boards
+
+There are three dominant online job platforms where hiring teams looking for entry-level workers (sometimes referred to as *talent*) will post job ads.
+
+- [LinkedIn](https://www.linkedin.com/)
+- [Handshake](https://joinhandshake.com/)
+- [Indeed](https://www.indeed.com/)
+
+## LinkedIn
+
+Originally a professional networking site, LinkedIn has expanded to cover multiple functionalities. This includes hosting job ads, [learning courses](https://learning.linkedin.com/) (formely Lynda.com), running news articles and more (including puzzles).
+
+There are over 230 million users in the US alone ([LinkedIn, 2024](https://news.linkedin.com/about-us#Statistics)). It is a highly used site by companies and individual workers alike. If you do not already have an account, you will need one in order to browse and apply to roles posted on LinkedIn.
+
+### Signing Up
+
+For this workshop, we will be exploring LinkedIn Jobs. You will need to set-up an account. 
+
+If you haven't set-up one already, you can do it now:
+
+1. Go to [linkedin.com](https://www.linkedin.com/).
+2. Click "Join now" under the three sign-in options.
+3. Continue to fill out the information requested. You will likely use this account after you complete your undergraduate degree, and so signing up with a personal email is suggested. You can add your university email as a secondary email under Settings >> Sign in & security >> Email addresses.
+
+### Creating a Profile
+
+You can connect with classmates, coworkers, and friends. There's nothing incredibly special about having a large number of connections, especially when it comes to securing a job. The main benefit of having more connections is catching when someone re-posts or posts a job ad. This could be relevant when you're looking at organizations you may want to work at, but they do not have any current openings. 
+
+Learn some best practices for building out your LinkedIn profile! The UCD Career Center has a [great page for this](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others).
+
+## Handshake
+
+Handshake has a strong connection with the higher education space. This is a job platform *geared* towards university students and recent graduates.
+
+There's plenty of information on Handshake via the UC Davis Career Center. Instead of going over it in this workshop, we will refer you to the UC their page on setting up a Handshake account and navigating Handshake: [Click here](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/handshake).
+
+## Indeed
+
+## Other Job Boards
+
+Since this is workshop tailored towards students pursuing psychology and psychology-related majors, we will list some relevant job boards below. This list is not comprehensive.
+
+- [EdJoin](https://www.edjoin.org/): One of the main job sites for education-related roles (e.g., instructional aides, paraeducator roles, teaching).
+- [American Psychological Association (APA)](https://www.psyccareers.com/): Job postings are available, but they are often tailored towards experienced roles. However, more information on navigating the job search from APA can be found [here](https://www.apa.org/education-career/job-search) and may be more useful to undergraduates.
+- [Cognitive Development Society](https://cogdevsoc.org/job-bank/): A range of roles are posted, from research assistants to directors and professorships.
+- [Society for Research on Child Development](https://careers.srcd.org/):
+- UCD Career Center's page on finding [government/public center jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/government-jobs) and [international jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/international-opportunities).
+- [PsychologyJobs.com](http://psychologyjobs.com/)
+
+***Pro-tip***: Ask Teaching Assistants if they know of any professional psychological organizations. These could be additional avenues for networking and finding opportunities.
+
+#### Words of Caution
+
+- If an organization requires you to pay to use their job board or to sign on for a paid membership, proceed with caution. 
+- When possible, try to apply to a position through the organization's actual website. Some niche sites or sites that web scrape for postings may accept applications, but you may not know how often a hiring manager checks out submitted applications on third-party sites.
+
+# Organizations' Career Pages 
+
+# Events
+
+- [Career Fairs via the Career Center](https://careercenter.ucdavis.edu/career-center-services/career-fairs). Steps for preparing for these fairs are listed at the bottom of the page.
+  - Winter Career Fair: Wednesday, Feb. 5, 2025 from 11-3p.m.
+  - Spring Career Fair: Wednesday, Apr. 16, 2025 from 11-3.pm.
+  - Both are at the University Credit Union Center
+  
+- Similarly, some organizations, like the APA will run hiring events.
+
+# Networking & Informal Channels
+
+- Community spaces and groups (SACNAS)
+- Listservs LIKE Cog Dev, SDJM, others (ask other grad students) plus their sites
+
+### Pro-tips
+
+- With your student email, you can sign up for courses on LinkedIn Learning for free (mostly). If you're want to upskill in a specific area, you can check out this courses and add completion of them to your LinkedIn profile. However, be mindful of services that request payment, whether it's on LinkedIn or elsewhere.
