@@ -14,8 +14,11 @@ For this workshop, we will be going over how to navigate the (mostly virtual) la
 2. **Organizations' career pages**: Depending on the size and technical scope of a company/organization, their website may have a 'Careers Page' or 'Job Portal'. Through these, you can sometimes sign-up to be notified when a new position is posted.
 3. **Events**: In-person or virtual events where you can talk one-on-one with an organization
 4. **Networking and informal announcements**: Receiving or being referred to positions via social connections or being a member of a community
-5. **Cold outreach**: Directly reaching out to an organization or recruiter and asking for positions. A 'recruiter' is someone whose job is to find job candidates for a company.
+5. **Cold outreach**: Directly reaching out to an organization or recruiter and asking for positions. A 'recruiter' is someone whose job is to find job candidates for a company. We will not be going over this in the reader.
 
+:::{.callout-important}
+There is going to be a lot of information listed in this workshop reader! We will be focusing on select sections for the live discussion, but feel free to peruse the other sections at a later date. If you get overwhelmed or unsure about how to handle all of this information, you can reach out to me (msouthwick@ucdavis.edu), an [undergraduate advisor](https://yellowcluster.ucdavis.edu/advising/undergraduate/major-advising), or even an [advisor at the Career Center](https://careercenter.ucdavis.edu/career-center-services/career-advising)!
+:::
 
 # Common Job Boards
 
@@ -77,6 +80,7 @@ Since this is workshop tailored towards students pursuing psychology and psychol
 
 - [EdJoin](https://www.edjoin.org/): One of the main job sites for education-related roles (e.g., instructional aides, paraeducator roles, teaching).
 - [American Psychological Association (APA)](https://www.psyccareers.com/): Job postings are available, but they are often tailored towards experienced roles. However, more information on navigating the job search from APA can be found [here](https://www.apa.org/education-career/job-search) and may be more useful to undergraduates.
+- [Association for Psychological Science](https://jobs.psychologicalscience.org/): Job postings are available, but they are often tailored towards experienced roles. 
 - [Cognitive Development Society](https://cogdevsoc.org/job-bank/): A range of roles are posted, from research assistants to directors and professorships.
 - [Society for Research on Child Development](https://careers.srcd.org/):
 - UCD Career Center's page on finding [government/public center jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/government-jobs) and [international jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/international-opportunities).
@@ -86,35 +90,37 @@ Since this is workshop tailored towards students pursuing psychology and psychol
 Ask instructors or teaching assistants if they know of any professional psychological organizations. These could be additional avenues for networking and finding opportunities.
 :::
 
-
 :::{.callout-caution}
 - If an organization requires you to pay to use their job board or to sign on for a paid membership, proceed with caution. 
-- When possible, try to apply to a position through the organization's actual website. Some niche sites or sites that web scrape for postings may accept applications, but you may not know how often a hiring manager checks out submitted applications on third-party sites.
+- Outside of LinkedIn/Handshake/Indeed or other major job boards, try to apply to a position through the organization's actual website. Niche sites or sites that web scrape for postings may accept applications, but you may not know how often a hiring manager checks out submitted applications on third-party sites.
 :::
 
 # Organizations' Career Pages 
 
-image of career page
+If you know there's a place you are interested in working at, you can try to search for available jobs on their website. Major organizations may have a career portal or page built into their own website. You can usually find these career pages at either the top and/or bottom of the homepage. The career page may be labeled as either 'Jobs', 'Careers', 'Working at _____', or something similar. See image below for an example of a 'Jobs' link found at the very bottom of the UC Davis home page.
 
+![](images/org_career_page_location.jpg){fig-alt="image of a career page location on home page"}
 
-image of google search
+If you are not sure whether the organization has a career page, you can also Google search the organization's name plus the keyword 'Careers' or 'Jobs'. See the example below.
+
+![](images/search_org_page.jpg){fig-alt="image of a career page Google search"}
+
+Sometimes through a company's career portal, you can sign on to be a part of a 'talent community', where you can be directly notified if a relevant job is posted. These 'talent communities' are usually only supported by major organizations (think big Finance like Goldman Sachs), so this tip is less relevant to more psych-related roles.
+
+But, even smaller organizations or businesses may have an email listed for job availability inquiries.
 
 # Events
 
-- [Career Fairs via the Career Center](https://careercenter.ucdavis.edu/career-center-services/career-fairs). Steps for preparing for these fairs are listed at the bottom of the page.
+Events that connect potential job candidates (e.g., undergraduate students) to employers are called, "career fairs". One of the benefits of being in higher education is access to these career fairs. 
+
+The Career Center runs career fairs throughout the year [click here for more](https://careercenter.ucdavis.edu/career-center-services/career-fairs). Steps for preparing for these fairs are listed at the bottom of the page.
   - Winter Career Fair: Wednesday, Feb. 5, 2025 from 11-3p.m.
   - Spring Career Fair: Wednesday, Apr. 16, 2025 from 11-3.pm.
   - Both are at the University Credit Union Center
   
-- Similarly, some organizations, like the APA will run hiring events.
-
 # Networking & Informal Channels
 
 ## Community Spaces & Societies
-
-- [Black in Neuro](https://blackinneuro.com/) 
-- 
-- Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS): [UCD Chapter](https://sacnas.ucdavis.edu/) & [National Website](https://www.sacnas.org/)
 
 While not all of them will lead or disseminate job opportunities, there are so many more student organizations on campus! [Click here for more](https://aggielife.ucdavis.edu/home_login), or [here for UCD Psych-related clubs](https://psychology.ucdavis.edu/undergraduate/copy_of_internship-jobs/undergrad-clubs-associations/related-clubs). Some of these UCD Psych-related clubs include:
 
@@ -122,6 +128,11 @@ While not all of them will lead or disseminate job opportunities, there are so m
 - [Psi Chi](https://psychology.ucdavis.edu/undergraduate/copy_of_internship-jobs/undergrad-clubs-associations/psi-chi-honor-society)
 - [Cognitive Science Student Association (CSSA)](https://cogsci.ucdavis.edu/cognitive-science-student-association-cssa)
 - [Neurotech@Davis](https://neuroengineering.ucdavis.edu/neurotechdavis)
+
+There are also other organizations which support students nationwide. A couple are listed below, but you may find local chapters on the UCD student org list linked earlier.
+
+- [Black in Neuro](https://blackinneuro.com/) 
+- Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS): [UCD Chapter](https://sacnas.ucdavis.edu/) & [National Website](https://www.sacnas.org/). At the national-level, a major annual [conference](https://www.sacnas.org/conference) is held every year where attendees attend programming such as a career expo.
 
 ## Listservs
 
