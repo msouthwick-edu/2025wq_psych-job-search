@@ -19,7 +19,7 @@ website:
       
 format:
   html:
-    theme: sandstone
+    theme: yeti
     css: styles.css
     toc: true
 

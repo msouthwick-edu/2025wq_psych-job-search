@@ -14,9 +14,9 @@ number-sections: true
 ### Factors to Consider
 
 Geographic location, pay, benefits
+the company itself - it's missions, values, glassdoor (meh)
 
 # Suggested Next Steps
-
 
 - Develop a *really* good initial version of your resume
   - [UCD Career Center Resume Help](https://careercenter.ucdavis.edu/resumes-and-materials/resumes)
