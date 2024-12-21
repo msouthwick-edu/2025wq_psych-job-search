@@ -8,33 +8,31 @@ toc: true
 number-sections: true
 
 ---
+# The Job Search Mindset
 
-# How to search?
+Finding a full-time job is a process. It can be overwhelming yet exciting to see all of the possibilities for the next chapter of your life.
 
-## The Job Search Mindset
+There's an aspect of vulnerability in the job search. You're summarizing all of the experiences and skills you believe are relevant to a position into a single application, submitting it, and waiting to be judged in a way that will could significantly changed your life.
+
+Rejections are going to happen, or even worse, you won't receive any response from an employer on the status of your application. As you go on this journey, a little advice:
 
 **Be...**
 
-- Open-minded:
-- Cautious:
-- Patient (with yourself):
+- ***Open-minded***: There could job titles or positions you may not be aware of that match your interests and/or skillset. You can focus your job search on a certain role, but read through job descriptions to make sure they're aligning with your own career priorities. Try to expand your search to include titles that are adjacent to your interests. You can search or ask ChatGPT about suggested job titles based on your goals or current skill set.
+- ***Cautious***: In the face of mounting rejections or if the job search drags on, a reasonable reaction is to lower your standards for the type of position you're willing to take on. While managing your expectations for an entry-level role is appropriate, accepting a position at a company that exploits desperate or naive job seekers may set you on an untowardly career path. 
+    - Because there's always going to be rent due at the end of the month, it's okay to take on a temporary or part-time job. 
+    - If there are restrictions on the types of positions you can work post-grad (i.e., international students), UCD students and alumni have access to [GoinGlobal](https://siss.ucdavis.edu/goinglobal). They advertise resources for H1B visa holders.
+- ***Patient (with yourself)***: Find ways to demonstrate kindness to yourself during this process. Stay connected with those who matter to you, build in moments of care or play into your everyday routine, and treat the job search as a part-time job. Dedicate time to the search, but once the job is done for the day, fill your time in other ways.
 
-**Maintain...**
+# LinkedIn: Navigating the "Jobs" Section
 
-- Social support networks:
-- A regular routine:
+## Search Functionality
 
-### Resources
+photo of sample job search on linkedin
 
-- Student Counseling
-- Career Center
-- Advisors
-- Family/Friends
+highlight important components
 
-
-## LinkedIn: Navigating the "Jobs" Section
-
-### Search Terms
+## Search Terms
 
 Below is a sample set of keywords for different job types, generated from ChatGPT (OpenAI, 2024). 
 
@@ -50,11 +48,9 @@ However, the other keyword output could also be helpful when you're trying to cr
 
 A list of relevant, entry-level job titles can be found [here (for Psychology)](https://careercenter.ucdavis.edu/career-discovery/undergraduate-students/what-can-i-do/majors-data?mcid=191) and [here (for Cognitive Science)](https://careercenter.ucdavis.edu/career-discovery/undergraduate-students/what-can-i-do/majors-data?mcid=269). You can loop some of the titles listed into your search strategy.
 
-
-#### Research Roles
-
+:::{.callout-caution}
 The term 'research' in job search land is pretty broad. Across all fields and industries, there is research being done. This means when typing in 
-
+:::
 <!--- engagement opportunity, have them ask ChatGPT a question, we'll use a live example for the run-through --->
 
 ### Filtering
