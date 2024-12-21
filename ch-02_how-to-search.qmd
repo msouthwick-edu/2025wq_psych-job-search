@@ -73,6 +73,8 @@ The term 'research' in job search land is pretty broad. Across all fields and in
 
 <!---This will be an active engagement portion; have them sign-up for an organization they may be interested in. Be sure to give some examples. I can 'create a job alert' as a walkthrough.--->
 
+### Setting Up a Folder in Gmail/Microsoft Inbox
+
 ### Pro-tips
 
 - **Being quick to apply is in your favor** if a submission deadline is not specified. However, ensure you're submitting quality materials for the application. We will not be covering crafting a resume in full for this workshop.

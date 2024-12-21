@@ -17,7 +17,7 @@ For this workshop, we will be going over how to navigate the (mostly virtual) la
 5. **Cold outreach**: Directly reaching out to an organization or recruiter and asking for positions. A 'recruiter' is someone whose job is to find job candidates for a company.
 
 
-# 1.1 Common Job Boards
+# Common Job Boards
 
 There are three dominant online job platforms where hiring teams looking for entry-level workers (sometimes referred to as *talent*) will post job ads.
 
@@ -41,11 +41,16 @@ If you haven't set-up one already, you can do it now:
 2. Click "Join now" under the three sign-in options.
 3. Continue to fill out the information requested. You will likely use this account after you complete your undergraduate degree, and so signing up with a personal email is suggested. You can add your university email as a secondary email under Settings >> Sign in & security >> Email addresses.
 
+:::{.callout-tip}
+With your student email, you can sign up for courses on LinkedIn Learning for free (mostly). If you're want to upskill in a specific area, you can check out this courses and add completion of them to your LinkedIn profile. However, be mindful of services that request payment, whether it's on LinkedIn or elsewhere.
+:::
+
 ### Creating a Profile
 
 You can connect with classmates, coworkers, and friends. There's nothing incredibly special about having a large number of connections, especially when it comes to securing a job. The main benefit of having more connections is catching when someone re-posts or posts a job ad. This could be relevant when you're looking at organizations you may want to work at, but they do not have any current openings. 
-
+:::{.callout-tip}
 Learn some best practices for building out your LinkedIn profile! The UCD Career Center has a [great page for this](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others).
+:::
 
 ## Handshake
 
@@ -54,6 +59,17 @@ Handshake has a strong connection with the higher education space. This is a job
 There's plenty of information on Handshake via the UC Davis Career Center. Instead of going over it in this workshop, we will refer you to the UC their page on setting up a Handshake account and navigating Handshake: [Click here](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/handshake).
 
 ## Indeed
+
+Indeed is another major job board site minus the social networking. You can set-up an account similarly to how you set up the LinkedIn account.
+
+### Signing Up
+
+1. On [Indeed](https://www.indeed.com/), click on 'Get Started' or 'Sign In' go through the steps.
+2. Make sure you keep track of which emails you are using to sign-up for these accounts. We will talk about how to manage the number of emails you may receive from these sites in Chapter 3.
+
+### Creating a Profile
+
+You can upload as much or as little information to your profile as you feel comfortable with. You can mainly use Indeed to identify jobs. All the other data you provide to Indeed will help 'customize' your search, but that may broaden or narrow your search in ways you don't know.
 
 ## Other Job Boards
 
@@ -66,14 +82,22 @@ Since this is workshop tailored towards students pursuing psychology and psychol
 - UCD Career Center's page on finding [government/public center jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/government-jobs) and [international jobs](https://careercenter.ucdavis.edu/job-and-internship-search/types-opportunities/international-opportunities).
 - [PsychologyJobs.com](http://psychologyjobs.com/)
 
-***Pro-tip***: Ask Teaching Assistants if they know of any professional psychological organizations. These could be additional avenues for networking and finding opportunities.
+:::{.callout-tip}
+Ask instructors or teaching assistants if they know of any professional psychological organizations. These could be additional avenues for networking and finding opportunities.
+:::
 
-#### Words of Caution
 
+:::{.callout-caution}
 - If an organization requires you to pay to use their job board or to sign on for a paid membership, proceed with caution. 
 - When possible, try to apply to a position through the organization's actual website. Some niche sites or sites that web scrape for postings may accept applications, but you may not know how often a hiring manager checks out submitted applications on third-party sites.
+:::
 
 # Organizations' Career Pages 
+
+image of career page
+
+
+image of google search
 
 # Events
 
@@ -86,9 +110,36 @@ Since this is workshop tailored towards students pursuing psychology and psychol
 
 # Networking & Informal Channels
 
-- Community spaces and groups (SACNAS)
-- Listservs LIKE Cog Dev, SDJM, others (ask other grad students) plus their sites
+## Community Spaces & Societies
 
-### Pro-tips
+- [Black in Neuro](https://blackinneuro.com/) 
+- 
+- Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS): [UCD Chapter](https://sacnas.ucdavis.edu/) & [National Website](https://www.sacnas.org/)
 
-- With your student email, you can sign up for courses on LinkedIn Learning for free (mostly). If you're want to upskill in a specific area, you can check out this courses and add completion of them to your LinkedIn profile. However, be mindful of services that request payment, whether it's on LinkedIn or elsewhere.
+While not all of them will lead or disseminate job opportunities, there are so many more student organizations on campus! [Click here for more](https://aggielife.ucdavis.edu/home_login), or [here for UCD Psych-related clubs](https://psychology.ucdavis.edu/undergraduate/copy_of_internship-jobs/undergrad-clubs-associations/related-clubs). Some of these UCD Psych-related clubs include:
+
+- [Undergraduate Psychology Association (UPA)](https://psychology.ucdavis.edu/undergraduate/copy_of_internship-jobs/undergrad-clubs-associations/undergraduate-psychology-association-upa)[P
+- [Psi Chi](https://psychology.ucdavis.edu/undergraduate/copy_of_internship-jobs/undergrad-clubs-associations/psi-chi-honor-society)
+- [Cognitive Science Student Association (CSSA)](https://cogsci.ucdavis.edu/cognitive-science-student-association-cssa)
+- [Neurotech@Davis](https://neuroengineering.ucdavis.edu/neurotechdavis)
+
+## Listservs
+
+Another way that you can find opportunities beginning with professional organizations is by joining their 'listservs'.
+
+[Listservs](https://en.wikipedia.org/wiki/LISTSERV) automatically distribute emails to multiple recipients. You can subscribe to a listserv by either emailing the administrator or following subscription instructors.
+
+Listservs are often free to join, but they may require some level of organizational affiliation. For example, [UC Davis has a major listserv platform](https://lists.ucdavis.edu/sympa/) where you can subscribe to varied mailing lists.
+
+Outside of the UC Davis system, psychological professional organizations often have listservs themselves. A few are listed below, linked out to their joining instruction pages.
+
+- [Cognitive Development Society](https://cogdevsoc.org/listserv/)
+- [Psychonomic Society](https://www.psychonomic.org/page/PSmailinglist)
+- [Society for Affective Science](https://society-for-affective-science.org/sas-listserv/)
+- [Society for Judgment & Decision Making](https://sjdm.org/links.html#mailing)
+
+To manage the number of emails you receive from a listserv, you can usually request to only receive a daily summary of the messages sent to the listserv. We will also discuss creating a filter in your email inbox in a later section.
+
+:::{.callout-tip}
+Again, ask instructors or teaching assistants if they know of any professional psychological organizations that are relevant to your interests. You can then explore where these organizations house listservs.
+:::
