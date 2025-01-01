@@ -51,6 +51,7 @@ With your student email, you can sign up for courses on LinkedIn Learning for fr
 ### Creating a Profile
 
 You can connect with classmates, coworkers, and friends. There's nothing incredibly special about having a large number of connections, especially when it comes to securing a job. The main benefit of having more connections is catching when someone re-posts or posts a job ad. This could be relevant when you're looking at organizations you may want to work at, but they do not have any current openings. 
+
 :::{.callout-tip}
 Learn some best practices for building out your LinkedIn profile! The UCD Career Center has a [great page for this](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others).
 :::
