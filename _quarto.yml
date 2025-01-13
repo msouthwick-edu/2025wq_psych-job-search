@@ -3,19 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Searching for Work: The Psychology Undergraduate Guide"
+  title: "Searching for Work: The Psych Undergrad Guide (PUG)"
   sidebar:
     style: "docked"
     search: true
     contents:
       - text: "Overview"
         href: index.qmd
-      - text: "Chapter 1: Where to Search?"
+      - text: "Ch. 1: Where to Search?"
         href: ch-01_where-to-search.qmd
-      - text: "Chapter 2: How to Search?"
+      - text: "Ch. 2: How to Search?"
         href: ch-02_how-to-search.qmd
-      - text: "Chapter 3: What Comes Up?"
+      - text: "Ch. 3: What Comes Up?"
         href: ch-03_what-comes-up.qmd
+      - text: "2025 Workshop Slides"
+        href: pug-job-search-slides-2025.qmd
       
 format:
   html:

@@ -10,7 +10,7 @@ number-sections: true
 ---
 # The Job Search Mindset
 
-Finding a full-time job is a process. It can be overwhelming yet exciting to see all of the possibilities for the next chapter of your life.
+Finding a full-time job is an intensive process. It can be overwhelming yet exciting to see all of the possibilities for the next chapter of your life.
 
 There's an aspect of vulnerability in the job search. You're summarizing all of the experiences and skills you believe are relevant to a position into a single application, submitting it, and waiting to be judged in a way that will could significantly changed your life.
 
