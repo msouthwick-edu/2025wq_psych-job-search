@@ -2,7 +2,7 @@
 title: "Ch. 2: How to Search?"
 subtitle: 'Learning and implementing search strategies'
 author: Maia L. Southwick
-date: "2024-12-19"
+date: "2025-01-13"
 format: html
 toc: true
 number-sections: true

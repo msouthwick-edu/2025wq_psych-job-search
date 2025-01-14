@@ -2,7 +2,7 @@
 title: "Chapter 1: Where to Search?"
 subtitle: 'Identifying relevant places for jobs'
 author: Maia L. Southwick
-date: "2024-12-19"
+date: "2025-01-13"
 format: html
 toc: true
 number-sections: true

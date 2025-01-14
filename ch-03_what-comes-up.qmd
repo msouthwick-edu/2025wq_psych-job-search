@@ -2,7 +2,7 @@
 title: "Ch. 3: What comes up in the search?"
 subtitle: 'Unpacking job descriptions'
 author: Maia L. Southwick
-date: "2024-12-19"
+date: "2025-01-13"
 format: html
 toc: true
 number-sections: true
@@ -11,13 +11,15 @@ number-sections: true
 
 As you being to sift through your search results, you need to consider multiple factors related to your personal situation, your future needs, and your potential employer. These factors can include:
 
-- **Pay**: A position can offer wage compensation in the form of hourly wages or an annual salary amount (paid in biweekly or monthly intervals). 
-- **Benefits**: Evaluate whether a position even comes with a benefits packages, and if so, then the components of that package. This is all nonwage compensation. A benefits package can include health/dental/vision insurance, paid time off (PTO), travel reimbursements, retirement plans, and more. Learn more about these [here](https://www.indeed.com/hire/c/info/benefit-packages).
-- **Geographic location**: Some positions may require you to relocate to a new area. You will need to determine whether or not you are able and willing to move for a position. Some jobs may require you to travel or they may offer remote positions. Where a position is located and posted will also affect the true value of a posted salary or wage. High cost-of-living areas will require higher wages/salaries to live in than a low cost-of-living location. You can Google more on a city's cost of living or checkout this index [here](https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021).
-- **Schedule**: Determine whether or not you're open to a fixed or variable schedule position. Fixed means a consistent schedule (e.g., Monday - Friday, 9-5pm). Variable schedule means the hours or shifts that you work each week may change from time-to-time. This can either mean increased flexibility or increased uncertainty in the hours that'll you'll be paid each week (if it's an hourly position).
-- **Employer's mission**: The importance of this factor may vary from person-to-person. If working for an employer whose values matches yours, then you should investigate any public profiles or websites that they may have which states the company's mission and values.
-- **Size of the company**: Larger companies may have more processes in place to support newer hires. Or they may experience higher turnover of employees. It depends on the industry and nature of the work. Smaller firms may have a more tight-knit culture or expect a
-- **Employer's reputation**: You can conduct research on a company to see if any employee reviews appear. [Glassdoor](https://www.glassdoor.com/index.htm) is a well-known website where current and past employees can post reviews about a company. The site will require you to sign-up and then submit either your own review, salary information, your interview experience, and/or benefits information about a company that you've worked at previously. Check out this site at your own discretion.
+| Factor | Notes |
+|--------|-------|
+|**Pay**| A position can offer wage compensation in the form of hourly wages or an annual salary amount (paid in biweekly or monthly intervals). |
+|**Benefits**| Evaluate whether a position even comes with a benefits packages, and if so, then the components of that package. This is all nonwage compensation. A benefits package can include health/dental/vision insurance, paid time off (PTO), travel reimbursements, retirement plans, and more. Learn more about these [here](https://www.indeed.com/hire/c/info/benefit-packages).|
+|**Geographic location**| Some positions may require you to relocate to a new area. You will need to determine whether or not you are able and willing to move for a position. Some jobs may require you to travel or they may offer remote positions. Where a position is located and posted will also affect the true value of a posted salary or wage. High cost-of-living areas will require higher wages/salaries to live in than a low cost-of-living location. You can Google more on a city's cost of living or checkout this index [here](https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021)|
+|**Schedule**| Determine whether or not you're open to a fixed or variable schedule position. Fixed means a consistent schedule (e.g., Monday - Friday, 9-5pm). Variable schedule means the hours or shifts that you work each week may change from time-to-time. This can either mean increased flexibility or increased uncertainty in the hours that'll you'll be paid each week (if it's an hourly position)|
+|**Employer's mission**| The importance of this factor may vary from person-to-person. If working for an employer whose values matches yours, then you should investigate any public profiles or websites that they may have which states the company's mission and values.|
+|**Size of the company**| Larger companies may have more processes in place to support newer hires. Or they may experience higher turnover of employees. It depends on the industry and nature of the work. Smaller firms may have a more tight-knit culture or expect a higher amount of work from each employee.|
+|**Employer's reputation**| You can conduct research on a company to see if any employee reviews appear. [Glassdoor](https://www.glassdoor.com/index.htm) is a well-known website where current and past employees can post reviews about a company. The site will require you to sign-up and then submit either your own review, salary information, your interview experience, and/or benefits information about a company that you've worked at previously. Check out this site at your own discretion.|
 
 :::{.callout-important}
 You will need to ask yourself, "what is your financial  and employment situation now, and what will it be once you graduate?".
@@ -29,43 +31,63 @@ Refer to this UCD Career Center's page on ["Do Your Own Research"](https://caree
 
 You can begin to assess these factors with the job postings returned in your search results. Job postings will also include information for the types of candidates for whom they are recruiting.
 
-For this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found [here](https://www.linkedin.com/jobs/view/4116754672). While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it's likely that other job postings do not contain all of the elements below, or contain additional elements.
+For this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found [here](https://www.linkedin.com/jobs/view/4116754672). While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it's likely that other job postings do not contain all of the elements below, or they may contain additional elements.
 
-![](images\li_search_result.jpg){fig-alt="image of a research data analyst position result on LinkedIn"} 
+![](images\li_search_result.jpg){fig-alt="image of a research data analyst position result on LinkedIn" fig-align="center" width=1200pt} 
 
 ## Job Summary
 
-The fir
+The first portion of a job posting will likely contain a paragraph description of the job's position within an organization and primary roles and responsibilities. This will provide a good gist of how the employer would expect someone to succeed in the position.
 
-![](images\sample-job-description.jpg){fig-alt="image of a job summary"} 
+![](images\sample-job-description.jpg){fig-alt="image of a job summary" fig-align="center" width=400pt} 
+
 ## Qualifications
 
-Preferred
-Minimum
+Next, a job posting will list the hiring team's expectations of skills, experience, and/or education deemed necessary to succeed in the position. Any necessary qualifications could be labeled as "Must Haves", "Minimum Qualifications", "Required Qualifications", and more.
 
-![](images\sample-job-qualifications.jpg){fig-alt="image of a job qualifications"} 
+Sometimes, a posting will also list "Preferred Qualifications" or "Nice-to-Haves". These are skills, experience, and/or education not *necessary* for being considered for the role, but they may help you stand out as a job candidate. 
+
+:::{.callout-tip}
+Even if you don't meet 100% of the items listed under any portion of a qualifications section, you should consider applying to a position. The worst you can receive is either a reject or no response at all. No legitimate job application should cost money to apply to.
+:::
+
+![](images\sample-job-qualifications.jpg){fig-alt="image of a job qualifications" fig-align="center" width=400pt} 
 
 ## Job Responsibilities
 
-![](images\sample-job-responsiblities.jpg){fig-alt="image of a job responsibilities"} 
+The day-to-day tasks of a position will often be listed under a specific "responsibilities" section. If there's limited information, you can ask for more clarification on responsibilities during the interview process. The responsibilities listed will also cue you in to the types of skills and experiences a hiring manager is looking for.
+
+![](images\sample-job-responsiblities.jpg){fig-alt="image of a job responsibilities" fig-align="center" width=400pt} 
+
 ## Position Information
 
-![](images\sample-position-information.jpg){fig-alt="image of a position details like pay"} 
+Additional information on pay, frequency of pay, schedule, part-time/full-time status, and anything else relevant to what was discussed in the "Factors to Consider" section will be housed in some part of the job posting. If you cannot find any information on pay, type of work demands, schedule, and more, then you may need to conduct research on the company to better understand the position. You may also need to ask these questions during the interview process.
+
+![](images\sample-position-information.jpg){fig-alt="image of a position details like pay" fig-align="center" width=400pt} 
 
 ## Benefits
 
-![](images\sample-job-benefits.jpg){fig-alt="image of a position details like pay"} 
+The benefits section may describe types of non-wage compensation such as health insurance, dental insurance, vision insurance, paid vacation leave, paid sick leave, retirement plans ([401k or 403b matching](https://www.empower.com/the-currency/work/how-does-401k-matching-work)), and more. These are important parts of any job you take on, so if there is limited information on benefits, be sure to ask this during the interview process. 
+
+Get a sense of typical PTO amounts for different levels of a position or different industries by reviewing this [Indeed post](https://www.indeed.com/career-advice/career-development/average-vacation-time). The post is repackaging data from the US Bureau of Labor Statistics (BLS), which is a reputable data source. There's [lots of other interesting data on employment trends through the BLS](https://www.bls.gov/ebs/).
+
+![](images\sample-job-benefits.jpg){fig-alt="image of a position details like pay" fig-align="center" width=400pt} 
+
 ## Other Information
 
-- Company/Department Description
-- Workplace demands and commitments
-- Request for accommodations
+There's plenty of additional information that a job posting can include, such as whether visa sponsorship or requests for accommodations during the hiring process. That's why it's important to know what characteristics of job position is important to you, so in the case that that information is missing from a job posting, you can ask for it during steps further along the applying and interviewing process.
 
 # Suggested Next Steps
 
-- Develop a *really* good initial version of your resume
+That's it for now! This information has been housed in these web pages for you to refer to throughout your job search process. There's many other components of the job search process, and you can learn more about them at this [UCD Career Center page](https://careercenter.ucdavis.edu/job-and-internship-search). This could include:
+
+- Developing a *really* good initial version of your resume
   - [UCD Career Center Resume Help](https://careercenter.ucdavis.edu/resumes-and-materials/resumes)
-- Practice interviews!
+- Learning how to practice interviews!
 - Navigating the interview process & job offers
-- Be wary of job scams ([more info here](https://careercenter.ucdavis.edu/job-and-internship-search/job-scams))
+- Being wary of job scams ([more info here](https://careercenter.ucdavis.edu/job-and-internship-search/job-scams))
+
+:::{.callout-tip}
+Set a time **right now** to begin exploring job postings on one of the job boards mentioned in Ch. 1. You don't have to apply to anything at this point, but get a sense of what's typically in job postings related to the positions that you're interested in. You can use this information to inform how you develop your resume and job search strategy.
+:::
 
