@@ -10,7 +10,7 @@ website:
     search: true
     collapse-level: 3
     contents:
-      - text: "Overview"
+      - text: "Workshop Overview"
         href: index.qmd
       - text: "Ch. 1: Where to Search?"
         href: ch-01_where-to-search.qmd
@@ -18,7 +18,7 @@ website:
         href: ch-02_how-to-search.qmd
       - text: "Ch. 3: What Comes Up?"
         href: ch-03_what-comes-up.qmd
-      - text: "2025 Workshop Slides"
+      - text: "Supplemental: 2025 Workshop Slides"
         href: pug-job-search-slides-2025.qmd
       
 format:
