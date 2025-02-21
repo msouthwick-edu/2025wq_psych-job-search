@@ -1,5 +1,6 @@
 ---
-title: "pug-job-search"
+title: "Searching for Work"
+subtitle: "A Psychology Undergraduate Guide (PUG)"
 author: "Maia L. Southwick"
 format: revealjs
 ---
@@ -7,7 +8,7 @@ format: revealjs
 # Welcome!
 
 - Access the workshop materials here: [https://msouthwick-edu.github.io/2025wq_psych-job-search/](https://msouthwick-edu.github.io/2025wq_psych-job-search/)
-- Complete a pre-workshop survey here: [https://tinyurl.com/2umhdys3](https://tinyurl.com/2umhdys3)
+<!-- - Complete a pre-workshop survey here: [https://tinyurl.com/2umhdys3](https://tinyurl.com/2umhdys3) -->
 - You will need easy access to your laptop and connection to internet.
 
 # Overview
