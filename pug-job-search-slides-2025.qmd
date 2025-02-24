@@ -5,9 +5,10 @@ author: "Maia L. Southwick"
 format: 
   revealjs:
     chalkboard: true
-    logo: pug.png
     footer: "Searching for Work: [https://tinyurl.com/pug-workshop](https://tinyurl.com/pug-workshop)"
     slide-number: c/t
+
+css: styles1.css  
 ---
 
 # Welcome!
@@ -35,6 +36,7 @@ library(countdown)
 
 ::: {.fragment}
   - Leverage tools to aid your job search
+  - Explore possible job titles
 :::  
   
 ### What comes up in the search? {.smaller}
@@ -217,7 +219,7 @@ At the end of the day, you are putting yourself out into the world, and you're g
     - Post in chat or on the whiteboard.
 - Let's try another way! [https://chatgpt.com/](https://chatgpt.com/)
     - Example job titles: [https://tinyurl.com/mppvyf49](https://careercenter.ucdavis.edu/career-discovery/undergraduate-students/what-can-i-do/majors-data?mcid=191)
-    - Possible [job families](https://www.imaginephd.com/job-families) (https://www.imaginephd.com/job-families).
+    - Possible [job families](https://www.imaginephd.com/job-families) (https://www.imaginephd.com/job-families) or https://www.science.org/content/article/myidp.
     - Take a couple minutes to generate some search terms
     - You could even ask ChatGPT, "What are some job titles for entry-level roles requiring a psychology degree?"
         - Feel free to push it to be more specific.
@@ -226,7 +228,7 @@ At the end of the day, you are putting yourself out into the world, and you're g
 :::    
 
 ```{r, echo=FALSE}
-countdown(minutes = 5, seconds = 00) 
+countdown(minutes = 10, seconds = 00) 
 ```
 
 <!-- - Take time to generate search terms via ChatGPT:
@@ -350,10 +352,11 @@ Go to the employer's LinkedIn page and look at "People". It's okay to send a DM!
 
 Can't make promises about red flags -->
 
-## Next Steps
+## Next Steps {.smaller}
 
 ::: {.incremental}
 - Schedule a time or start date for your job search. Stick to it. Treat it like a part-time position.
+- Keep track of your applications! Here is a Job Search Template that you can copy from Google Sheets: [https://tinyurl.com/pug-search-sheet](https://tinyurl.com/pug-search-sheet)
 - Find someone who can support you in this process. 
 - Check out resources on campus
     - UCD Career Center
