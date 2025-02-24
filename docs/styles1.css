@@ -1,8 +1,8 @@
 /* css styles */
 h1.title {
-    background-image: url(images/job-search-pic.png), url(images/pug.png);
+    background-image: url(images/pug.png);
     background-repeat: no-repeat;
-    background-position: left, right;
-    background-size: 200px, 200px;
+    background-position: top;
+    background-size: 200px;
   }
   
