@@ -5,10 +5,9 @@ author: "Maia L. Southwick"
 format: 
   revealjs:
     chalkboard: true
+    logo: pug.png
     footer: "Searching for Work: [https://tinyurl.com/pug-workshop](https://tinyurl.com/pug-workshop)"
     slide-number: c/t
-
-css: styles1.css  
 ---
 
 # Welcome!
