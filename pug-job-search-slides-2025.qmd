@@ -44,7 +44,9 @@ library(countdown)
   - Understand the main components of a job posting to inform your search
 :::  
 
-<!-- Where to search includes: connecting with current and former employees -->
+::: {.notes}
+Where to search includes: connecting with current and former employees
+:::
 
 
 # Introductions
@@ -57,7 +59,9 @@ library(countdown)
     - economics, sociology, quantitative analysis
 - Worked in a variety of professional contexts
 
-<!-- Mention transitioning out of undergrad had its own challenges; happy to talk about this! --->
+::: {.notes}
+Mention transitioning out of undergrad had its own challenges; happy to talk about this!
+:::
 
 ## Who are you?
 
@@ -66,10 +70,11 @@ library(countdown)
   - Why did you choose your major?
   - What are your career goals?
   
-<!-- 
+::: {.notes}
 [if a smaller group, have everyone unmute themselves and speak]
 
-Now that we've introduced ourselves, let's learn more about some strategies on how to take this mext step of your career journey together -->
+Now that we've introduced ourselves, let's learn more about some strategies on how to take this mext step of your career journey together 
+:::
 
 ## Typical Job Search Timeline {.smaller}
 
@@ -93,7 +98,9 @@ We will be focusing on **identifying positions**:
   - Tailor your application materials to the position ahead of submitting.
 :::
 
-<!-- Recognition of privilege; some people may have more time or support to be "picky", while others have other pressures that are driving their financial and professional decisions. Respect that.-->
+::: {.notes}
+Recognition of privilege; some people may have more time or support to be "picky", while others have other pressures that are driving their financial and professional decisions. Respect that.
+:::
 
 # Step 1: Where to Search
 
@@ -103,9 +110,11 @@ We will be focusing on **identifying positions**:
 
 - *Post in the chat or unmute!*
 
-<!-- 1. Pose this question and have folks unmute or respond in the chat.
+::: {.notes}
+1. Pose this question and have folks unmute or respond in the chat.
 2. Add this to a chalkboard in Quarto presentation. Click 'D' to download drawings.
 Sometimes one of the hardest things of any new process, -->
+:::
 
 ## Identifying Potential Employers & Open Positions
 *Chapter 1*
@@ -118,7 +127,8 @@ Sometimes one of the hardest things of any new process, -->
 - Networking & Informal Channels + Cold Outreach
 :::
 
-<!-- refer to Ch. 1 in the reader for this part, if you want.
+::: {.notes}
+refer to Ch. 1 in the reader for this part, if you want.
 1. Job Boards: These can either be an open online community where hiring managers and companies post job ads, closed community spaces with job postings, or job ad aggregation sites which scrape the internet for posted job ads on other sites. 
   a. this could include sites like Indeed, Handshake, and LinkedIn (amongst others).
 2. Career Pages: You can often times apply through an organization's website itself. This is direct, but makes searching a bit less efficient.
@@ -126,7 +136,7 @@ Sometimes one of the hardest things of any new process, -->
 Other ways include seeking out connections with employers, whether that's by attending events such as career fairs, joining professional networks, or doing "cold outreach" (i.e., initiating contact with a hiring manager or someone else who could refer you to an open position). 
 
 We'll focus on navigating LinkedIn for a job search, as many of the skills we'll talk about could translate to other job search strategies.
--->
+:::
 
 ## But wait... a Q&A!
 
@@ -136,7 +146,9 @@ Questions about...
   - Norms for reaching out to others about jobs?
   - ahhhhh!? 😬 
 
-<!-- 2-5 minutes -->
+::: {.notes}
+refer to reader for examples, idealist is one of them
+::: 
 
 ## LinkedIn: An Introduction
 *Chapter 1, Section 2.1*
@@ -150,9 +162,9 @@ Questions about...
 - Let's check it out... 
 :::
 
-<!-- 
+::: {.notes}
 Originally a professional networking site, LinkedIn has expanded to cover multiple functionalities. This includes hosting job ads, learning courses, running news articles and more (including puzzles). 
--->
+:::
 
 ## Setting Up an Account
 *Optional, but it'll be a part of future activities*
@@ -168,13 +180,14 @@ Originally a professional networking site, LinkedIn has expanded to cover multip
 countdown(minutes = 3, seconds = 00) 
 ```
 
-<!-- Who has an account already? 
+::: {.notes}
+Who has an account already? 
 If no one, have them take time to set-up an account and be on call for questions ~ 3 minutes.
 
 When you're done, raise your hand or post in the chat.
 
 You will need this for later in the workshop.
--->
+:::
 
 ## Step 1 Complete! 
 
@@ -191,14 +204,15 @@ You will need this for later in the workshop.
 - Be patient
 :::
 
-<!-- Searching for a job may be hard for some, and easy for others.
+::: {.notes}
+Searching for a job may be hard for some, and easy for others.
 
 At the end of the day, you are putting yourself out into the world, and you're going to have to make some decisions.
 
 1. Be open-minded to positions that you would not have thought to apply to on your own. Broaden your options without necessarily lowering your standards.
 2. Be cautious: you'll likely be applying to entry-level roles, so be sure to ask questions to potential employers about expectations for new hires and know what you can and CAN't compromise on when it comes to pay and benefits.
 3. Be patient: applying for multiple roles requires some degree of persistence. Find ways to take care of yourself during this process.
--->
+:::
 
 ## Navigating the "Jobs" Section
 *Chapter 2, Section 2*
@@ -209,7 +223,9 @@ At the end of the day, you are putting yourself out into the world, and you're g
     b. Set-up a search alert
     c. Job postings
 
-<!-- Look at reader and go through key terms, and parts of the job baord -->
+::: {.notes}
+Look at reader and go through key terms, and parts of the job board
+:::
 
 ## Your Turn! {.smaller}
 
@@ -230,13 +246,13 @@ At the end of the day, you are putting yourself out into the world, and you're g
 countdown(minutes = 10, seconds = 00) 
 ```
 
-<!-- - Take time to generate search terms via ChatGPT:
+::: {.notes}
+Take time to generate search terms via ChatGPT:
 
 Here is what I asked ChatGPT, “What are some related keywords to a behavior technician position?”. It generated keywords related to the role I was interested in (Behavior Technician), skills, work environment, and more. For our purposes, we will use the ‘General Role Keywords’ to plug into our LinkedIn search. However, you can use the other keyword output as search terms too.
 
 ~ 2 minutes for people to try, then ask for term
-
--->
+:::
 
 ## What did you find?
 *Post in the chat or unmute.*
@@ -264,7 +280,9 @@ After putting in key terms, there are a couple of different things you can do:
 
 ::::
 
-<!-- lean on reader for this part  -->
+::: {.notes}
+lean on reader for this part
+:::
 
 ## Step 2 Complete! 
 
@@ -279,21 +297,26 @@ After putting in key terms, there are a couple of different things you can do:
 - *Post in the chat or unmute!*
 
 
-<!-- Feel free to give examples: PAY, location, benefits, sponsorship, job type, upwards mobility, flexible schedule, good workplace culture, effective management;
+::: {.notes}
+Feel free to give examples: PAY, location, benefits, sponsorship, job type, upwards mobility, flexible schedule, good workplace culture, effective management;
 Plug in the reader, as it also has links to the UCD Career page on how to "do your own research".
--->
+:::
 
 ## What comprises a job posting?
 
 ![](li_search_result.jpg){fig-align="center"}
 
-<!-- For this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found here. While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it’s likely that other job postings do not contain all of the elements below, or they may contain additional elements. -->
+::: {.notes}
+For this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found here. While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it’s likely that other job postings do not contain all of the elements below, or they may contain additional elements.
+:::
 
 ## Job Summary
 
 ![](sample-job-description.jpg){fig-align="center"}
 
-<!-- The first portion of a job posting will likely contain a paragraph description of the job’s position within an organization and primary roles and responsibilities. This will provide a good gist of how the employer would expect someone to succeed in the position. -->
+::: {.notes}
+The first portion of a job posting will likely contain a paragraph description of the job’s position within an organization and primary roles and responsibilities. This will provide a good gist of how the employer would expect someone to succeed in the position.
+:::
 
 ## Qualifications
 
@@ -301,30 +324,37 @@ Plug in the reader, as it also has links to the UCD Career page on how to "do yo
 
 **Consider applying even if you don't meet 100% of the qualifications!**
 
-<!-- Next, a job posting will list the hiring team’s expectations of skills, experience, and/or education deemed necessary to succeed in the position. Any necessary qualifications could be labeled as “Must Haves”, “Minimum Qualifications”, “Required Qualifications”, and more. -->
+::: {.notes}
+Next, a job posting will list the hiring team’s expectations of skills, experience, and/or education deemed necessary to succeed in the position. Any necessary qualifications could be labeled as “Must Haves”, “Minimum Qualifications”, “Required Qualifications”, and more.
 
-<!-- Sometimes, a posting will also list “Preferred Qualifications” or “Nice-to-Haves”. These are skills, experience, and/or education not necessary for being considered for the role, but they may help you stand out as a job candidate. -->
+Sometimes, a posting will also list “Preferred Qualifications” or “Nice-to-Haves”. These are skills, experience, and/or education not necessary for being considered for the role, but they may help you stand out as a job candidate.
+:::
 
 ## Job Responsibilities
 
 ![](sample-job-responsiblities.jpg){fig-alt="image of a job responsibilities" fig-align="center" width=400pt} 
 
-<!-- The day-to-day tasks of a position will often be listed under a specific “responsibilities” section. If there’s limited information, you can ask for more clarification on responsibilities during the interview process. The responsibilities listed will also cue you in to the types of skills and experiences a hiring manager is looking for. -->
+::: {.notes}
+The day-to-day tasks of a position will often be listed under a specific “responsibilities” section. If there’s limited information, you can ask for more clarification on responsibilities during the interview process. The responsibilities listed will also cue you in to the types of skills and experiences a hiring manager is looking for.
+:::
 
 ## Position Information
 
 ![](sample-position-information.jpg){fig-alt="image of a position details like pay" fig-align="center" width=400pt} 
 
-<!-- Additional information on pay, frequency of pay, schedule, part-time/full-time status, and anything else relevant to what was discussed in the “Factors to Consider” section will be housed in some part of the job posting. If you cannot find any information on pay, type of work demands, schedule, and more, then you may need to conduct research on the company to better understand the position. You may also need to ask these questions during the interview process. -->
+::: {.notes}
+Additional information on pay, frequency of pay, schedule, part-time/full-time status, and anything else relevant to what was discussed in the “Factors to Consider” section will be housed in some part of the job posting. If you cannot find any information on pay, type of work demands, schedule, and more, then you may need to conduct research on the company to better understand the position. You may also need to ask these questions during the interview process. -->
+:::
 
 ## Benefits
 
 ![](sample-job-benefits.jpg){fig-alt="image of a position details like pay" fig-align="center" width=400pt} 
 
-<!-- The benefits section may describe types of non-wage compensation such as health insurance, dental insurance, vision insurance, paid vacation leave, paid sick leave, retirement plans (401k or 403b matching), and more. These are important parts of any job you take on, so if there is limited information on benefits, be sure to ask this during the interview process. 
+::: {.notes}
+The benefits section may describe types of non-wage compensation such as health insurance, dental insurance, vision insurance, paid vacation leave, paid sick leave, retirement plans (401k or 403b matching), and more. These are important parts of any job you take on, so if there is limited information on benefits, be sure to ask this during the interview process. 
 
 The reader has a link to the Bureau of Labor Statistics' salary and employment trends for reference.
--->
+:::
 
 ## Share Your Results
 - Select some of your search results and review.
@@ -336,9 +366,10 @@ The reader has a link to the Bureau of Labor Statistics' salary and employment t
 ```{r, echo=FALSE}
 countdown(minutes = 3, seconds = 00) 
 ```
-  
-<!-- does anyone want to share what they found? we could compare and contrast -->
 
+::: {.notes}  
+does anyone want to share what they found? we could compare and contrast
+:::
 ## Other Information
 
 - Reach out to people who are current or former employees
@@ -346,10 +377,11 @@ countdown(minutes = 3, seconds = 00)
     - No hard and fast rules, but check out company reviews on Glassdoor (Ch. 3, Section 1: "Employer's Reputation")
 - Job scams (more here: [https://careercenter.ucdavis.edu/job-and-internship-search/job-scams](https://careercenter.ucdavis.edu/job-and-internship-search/job-scams))
 
-<!-- 
+::: {.notes}
 Go to the employer's LinkedIn page and look at "People". It's okay to send a DM!
 
-Can't make promises about red flags -->
+Can't make promises about red flags
+:::
 
 ## Next Steps {.smaller}
 
@@ -363,8 +395,12 @@ Can't make promises about red flags -->
     - Ask people you know about their job search experiences (this could include TAs, instructors, etc.)
 :::
     
-<!-- Find someone: It can be the neighbor you chatted with today, a close friend or family member, or an advisor. Ultimately, the positions you apply for and the jobs you take is your choice, but it'll be good to have someone who can help you look out for red flags. -->
+::: {.notes}
+Find someone: It can be the neighbor you chatted with today, a close friend or family member, or an advisor. Ultimately, the positions you apply for and the jobs you take is your choice, but it'll be good to have someone who can help you look out for red flags. -->
+:::
 
 ## Completed the Final Step for Today!
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng3ODA5eHRudHdxODU4aXhnbnE4NXdsdHc0ZW1nNHhhMGtqZWczMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif){fig-align="center"}
+
+**Open Q&A + Troubleshooting**
