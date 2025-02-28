@@ -1,31 +1,206 @@
 [
   {
-    "objectID": "pug-job-search-slides-2025.html#agenda",
-    "href": "pug-job-search-slides-2025.html#agenda",
+    "objectID": "pug-job-search-slides-2025.html#objectives",
+    "href": "pug-job-search-slides-2025.html#objectives",
     "title": "Searching for Work",
-    "section": "Agenda",
-    "text": "Agenda\nWhere to search?\n\n\nIdentify relevant places to source jobs\nConnecting with current and former employees\n\n\n\nHow to search?\n\n\n\nLeverage tools to aid your job search\n\n\n\nWhat comes up in the search?\n\n\n\nUnderstand the main components of a job posting to inform your search"
+    "section": "Objectives",
+    "text": "Objectives\nWhere to search?\n\n\nIdentify relevant places to source jobs\n\n\nHow to search?\n\n\nLeverage tools to aid your job search\nExplore possible job titles\n\n\nWhat comes up in the search?\n\n\nUnderstand the main components of a job posting to inform your search\n\n\n\nWhere to search includes: connecting with current and former employees"
   },
   {
-    "objectID": "pug-job-search-slides-2025.html#goals",
-    "href": "pug-job-search-slides-2025.html#goals",
+    "objectID": "pug-job-search-slides-2025.html#who-am-i",
+    "href": "pug-job-search-slides-2025.html#who-am-i",
     "title": "Searching for Work",
-    "section": "Goals",
-    "text": "Goals\n\nWhere to search?\nHow to search?\nWhat comes up in the search?"
+    "section": "Who am I?",
+    "text": "Who am I?\n\nMaia Southwick (she/her)\nPhD student studying developmental and quantitative psychology\nB.S. in Psychology (honors) and Health, Society, & Policy\n\neconomics, sociology, quantitative analysis\n\nWorked in a variety of professional contexts\n\n\nMention transitioning out of undergrad had its own challenges; happy to talk about this!"
   },
   {
-    "objectID": "pug-job-search-slides-2025.html#who-i-am",
-    "href": "pug-job-search-slides-2025.html#who-i-am",
+    "objectID": "pug-job-search-slides-2025.html#who-are-you",
+    "href": "pug-job-search-slides-2025.html#who-are-you",
     "title": "Searching for Work",
-    "section": "Who I am",
-    "text": "Who I am\n\nMaia Southwick (she/her)\nPhD student studying developmental and quantitative psychology\nB.S. in Psychology and Health, Society, & Policy\nWorked in a variety of professional contexts"
+    "section": "Who are you?",
+    "text": "Who are you?\n\nTurn to your neighbor(s) and introduce yourself\n\nYour name, major, year in school\nWhy did you choose your major?\nWhat are your career goals?\n\n\n\n[if a smaller group, have everyone unmute themselves and speak]\nNow that we’ve introduced ourselves, let’s learn more about some strategies on how to take this mext step of your career journey together"
   },
   {
-    "objectID": "pug-job-search-slides-2025.html#who-you-are",
-    "href": "pug-job-search-slides-2025.html#who-you-are",
+    "objectID": "pug-job-search-slides-2025.html#typical-job-search-timeline",
+    "href": "pug-job-search-slides-2025.html#typical-job-search-timeline",
     "title": "Searching for Work",
-    "section": "Who you are",
-    "text": "Who you are\n\nTurn to your neighbor(s) and introduce yourself\n\nYour name, major, year in school\nWhy did you choose your major?\nWhat are your career goals?"
+    "section": "Typical Job Search Timeline",
+    "text": "Typical Job Search Timeline\n\n\n\n\nflowchart LR\n  A[Prepping materials] --&gt; B[Identifying &lt;br/&gt;positions]\n  B --&gt; C[Submitting &lt;br/&gt;applications]\n  C --&gt; D[Interviews]\n  D --&gt; E[Job Offer]\n\n\n\n\n\n\nWe will be focusing on identifying positions:\n\n\nRequires some understanding of your job needs and career goals (e.g., using online assessments)\nLearning where you can find open positions\nLearning how to implement effective search strategies\nDiscern between roles that align with your needs and expectations and those that don’t.\n\nTailor your application materials to the position ahead of submitting.\n\nQuestion in RSVP about when YOU should apply. It’s a dance. One reason why I pushed for a WQ workshop is spending SQ applying to jobs could be a good use of time. If you get a full-time offer, you can negotiate a start date.\n\n\n\nRecognition of privilege; some people may have more time or support to be “picky”, while others have other pressures that are driving their financial and professional decisions. Respect that."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#do-an-assessment",
+    "href": "pug-job-search-slides-2025.html#do-an-assessment",
+    "title": "Searching for Work",
+    "section": "Do an Assessment",
+    "text": "Do an Assessment\n\nhttps://www.imaginephd.com/users/sign-in\n\nCreate Account\nInterests Assessment\nALSO: Resources &gt;&gt; Job Family Resources\n\nhttps://myidp.sciencecareers.org/\n\nCreate Account\nInterests Assessment\nConsider Career Fit\n\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#what-did-you-find-out",
+    "href": "pug-job-search-slides-2025.html#what-did-you-find-out",
+    "title": "Searching for Work",
+    "section": "What Did You Find Out?",
+    "text": "What Did You Find Out?\nPost in chat or unmute and share what job family or positions came up for you?\n\nI will keep track of these and maybe use these as an example in future parts of this workshop."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#previous-experience",
+    "href": "pug-job-search-slides-2025.html#previous-experience",
+    "title": "Searching for Work",
+    "section": "Previous Experience",
+    "text": "Previous Experience\nHow have you found an open role in the past? Post in the chat or unmute!\n\n\nPose this question and have folks unmute or respond in the chat.\nAdd this to a chalkboard in Quarto presentation. Click ‘D’ to download drawings. Sometimes one of the hardest things of any new process, –&gt;"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#identifying-potential-employers-open-positions",
+    "href": "pug-job-search-slides-2025.html#identifying-potential-employers-open-positions",
+    "title": "Searching for Work",
+    "section": "Identifying Potential Employers & Open Positions",
+    "text": "Identifying Potential Employers & Open Positions\nChapter 1\n\n\nJob Boards\n\nLinkedIn, Handshake, Indeed, & more\n\nOrganizations’ Career Pages\nEvents\nNetworking & Informal Channels + Cold Outreach\n\n\n\nrefer to Ch. 1 in the reader for this part, if you want. 1. Job Boards: These can either be an open online community where hiring managers and companies post job ads, closed community spaces with job postings, or job ad aggregation sites which scrape the internet for posted job ads on other sites. a. this could include sites like Indeed, Handshake, and LinkedIn (amongst others). 2. Career Pages: You can often times apply through an organization’s website itself. This is direct, but makes searching a bit less efficient.\nOther ways include seeking out connections with employers, whether that’s by attending events such as career fairs, joining professional networks, or doing “cold outreach” (i.e., initiating contact with a hiring manager or someone else who could refer you to an open position).\nWe’ll focus on navigating LinkedIn for a job search, as many of the skills we’ll talk about could translate to other job search strategies."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#but-wait-a-qa",
+    "href": "pug-job-search-slides-2025.html#but-wait-a-qa",
+    "title": "Searching for Work",
+    "section": "But wait… a Q&A!",
+    "text": "But wait… a Q&A!\nQuestions about…\n\nPsych-specific job boards?\nNorms for reaching out to others about jobs?\nahhhhh!? 😬\n\n\nrefer to reader for examples, idealist is one of them"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#linkedin-an-introduction",
+    "href": "pug-job-search-slides-2025.html#linkedin-an-introduction",
+    "title": "Searching for Work",
+    "section": "LinkedIn: An Introduction",
+    "text": "LinkedIn: An Introduction\nChapter 1, Section 2.1\n\n\nAt this point… Professionalized Facebook\nBUT useful for a variety of reasons:\n\nJob board\nNetworking\nBuilding an online presence\n\nLet’s check it out…\n\n\n\nOriginally a professional networking site, LinkedIn has expanded to cover multiple functionalities. This includes hosting job ads, learning courses, running news articles and more (including puzzles)."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#setting-up-an-account",
+    "href": "pug-job-search-slides-2025.html#setting-up-an-account",
+    "title": "Searching for Work",
+    "section": "Setting Up an Account",
+    "text": "Setting Up an Account\n\n\nSet-Up a Profile\n\nGo to linkedin.com: https://www.linkedin.com/.\nClick “Join now” under the three sign-in options.\nContinue to fill out the information requested.\n\nPost in chat, DM me, or unmute if you have any questions. Once you’re done, raise your hand.\n\n\nDevelop Your Profile\n\nIf you already have an account, you can refer to the Career Center page on profile tips here.*\nDuring this time, you can develop your profile by:\n\nChanging your headline & update your about section\nAdd in relevant experiences to your profile and describe them using bullet points: “ACTION VERB + CONTEXT = RESULTS”\n\n\nHere is my profile as an example (it’s not perfect): https://www.linkedin.com/in/maia-southwick/\n\n\n\n\n\n−+\n05:00\n\n\n\n\nWho has an account already? - if someone has an account, drop this link in the chat: https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others for them to work on their profiles during this time. If no one, have them take time to set-up an account and be on call for questions ~ 3 minutes.\nWhen you’re done, raise your hand or post in the chat.\nYou will need this for later in the workshop."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#step-1-complete",
+    "href": "pug-job-search-slides-2025.html#step-1-complete",
+    "title": "Searching for Work",
+    "section": "Step 1 Complete!",
+    "text": "Step 1 Complete!"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#points-to-consider-in-a-job-search",
+    "href": "pug-job-search-slides-2025.html#points-to-consider-in-a-job-search",
+    "title": "Searching for Work",
+    "section": "Points to Consider in a Job Search",
+    "text": "Points to Consider in a Job Search\nChapter 2\n\n\nBe open-minded\nBe cautious\nBe patient\n\n\n\nSearching for a job may be hard for some, and easy for others.\nAt the end of the day, you are putting yourself out into the world, and you’re going to have to make some decisions.\n\nBe open-minded to positions that you would not have thought to apply to on your own. Broaden your options without necessarily lowering your standards.\nBe cautious: you’ll likely be applying to entry-level roles, so be sure to ask questions to potential employers about expectations for new hires and know what you can and CAN’t compromise on when it comes to pay and benefits.\nBe patient: applying for multiple roles requires some degree of persistence. Find ways to take care of yourself during this process."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#navigating-the-jobs-section",
+    "href": "pug-job-search-slides-2025.html#navigating-the-jobs-section",
+    "title": "Searching for Work",
+    "section": "Navigating the “Jobs” Section",
+    "text": "Navigating the “Jobs” Section\nChapter 2, Section 2\n\nHopping over to LinkedIn!\nBe able to identify the:\n\nSearch box\nSet-up a search alert\nJob postings\n\n\n\nLook at reader and go through key terms, and parts of the job board"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#your-turn",
+    "href": "pug-job-search-slides-2025.html#your-turn",
+    "title": "Searching for Work",
+    "section": "Your Turn!",
+    "text": "Your Turn!\n\n\nWhat are are some example job titles?\n\nPost in chat or on the whiteboard.\n\nLet’s try another way! https://chatgpt.com/\n\nExample job titles: https://tinyurl.com/mppvyf49\nPossible job families (https://www.imaginephd.com/job-families) or https://www.science.org/content/article/myidp.\nTake a couple minutes to generate some search terms\nYou could even ask ChatGPT, “What are some job titles for entry-level roles requiring a psychology degree?”\n\nFeel free to push it to be more specific.\nFind other prompts here (UCD Career Center: https://careercenter.ucdavis.edu/resumes-and-materials/using-ai)\n\nWe’ll come back to share what we’ve found.\n\n\n\n\n\n\n−+\n10:00\n\n\n\n\nTake time to generate search terms via ChatGPT:\n\nHere is what I asked ChatGPT, “What are some related keywords to a behavior technician position?”. It generated keywords related to the role I was interested in (Behavior Technician), skills, work environment, and more. For our purposes, we will use the ‘General Role Keywords’ to plug into our LinkedIn search. However, you can use the other keyword output as search terms too.\n\n2 minutes for people to try, then ask for term"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#what-did-you-find",
+    "href": "pug-job-search-slides-2025.html#what-did-you-find",
+    "title": "Searching for Work",
+    "section": "What did you find?",
+    "text": "What did you find?\nPost in the chat or unmute."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#actually-searching",
+    "href": "pug-job-search-slides-2025.html#actually-searching",
+    "title": "Searching for Work",
+    "section": "Actually Searching",
+    "text": "Actually Searching\nChapter 2, Section 2.2.2\nAfter putting in key terms, there are a couple of different things you can do:\n\n\n\nFiltering:\n\nExperience level\nEasy apply\nSalary\n\n\n\n\nSet up search alerts\n\nDirect alerts from an organization’s profile\nManage those search alerts in your email inbox!\n\nIdentify potential employers\n\n\n\n\nlean on reader for this part"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#step-2-complete",
+    "href": "pug-job-search-slides-2025.html#step-2-complete",
+    "title": "Searching for Work",
+    "section": "Step 2 Complete!",
+    "text": "Step 2 Complete!"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#what-are-you-looking-for-in-a-role-whats-important-to-you",
+    "href": "pug-job-search-slides-2025.html#what-are-you-looking-for-in-a-role-whats-important-to-you",
+    "title": "Searching for Work",
+    "section": "What are you looking for in a role? What’s important to you?",
+    "text": "What are you looking for in a role? What’s important to you?\nChapter 3, Section 1\n\nPost in the chat or unmute!\n\n\nFeel free to give examples: PAY, location, benefits, sponsorship, job type, upwards mobility, flexible schedule, good workplace culture, effective management; Plug in the reader, as it also has links to the UCD Career page on how to “do your own research”."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#what-comprises-a-job-posting",
+    "href": "pug-job-search-slides-2025.html#what-comprises-a-job-posting",
+    "title": "Searching for Work",
+    "section": "What comprises a job posting?",
+    "text": "What comprises a job posting?\n\n\nFor this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found here. While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it’s likely that other job postings do not contain all of the elements below, or they may contain additional elements."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#job-summary",
+    "href": "pug-job-search-slides-2025.html#job-summary",
+    "title": "Searching for Work",
+    "section": "Job Summary",
+    "text": "Job Summary\n\n\nThe first portion of a job posting will likely contain a paragraph description of the job’s position within an organization and primary roles and responsibilities. This will provide a good gist of how the employer would expect someone to succeed in the position."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#qualifications",
+    "href": "pug-job-search-slides-2025.html#qualifications",
+    "title": "Searching for Work",
+    "section": "Qualifications",
+    "text": "Qualifications\n\nConsider applying even if you don’t meet 100% of the qualifications!\n\nNext, a job posting will list the hiring team’s expectations of skills, experience, and/or education deemed necessary to succeed in the position. Any necessary qualifications could be labeled as “Must Haves”, “Minimum Qualifications”, “Required Qualifications”, and more.\nSometimes, a posting will also list “Preferred Qualifications” or “Nice-to-Haves”. These are skills, experience, and/or education not necessary for being considered for the role, but they may help you stand out as a job candidate."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#job-responsibilities",
+    "href": "pug-job-search-slides-2025.html#job-responsibilities",
+    "title": "Searching for Work",
+    "section": "Job Responsibilities",
+    "text": "Job Responsibilities\n\n\nThe day-to-day tasks of a position will often be listed under a specific “responsibilities” section. If there’s limited information, you can ask for more clarification on responsibilities during the interview process. The responsibilities listed will also cue you in to the types of skills and experiences a hiring manager is looking for."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#position-information",
+    "href": "pug-job-search-slides-2025.html#position-information",
+    "title": "Searching for Work",
+    "section": "Position Information",
+    "text": "Position Information\n\n\nAdditional information on pay, frequency of pay, schedule, part-time/full-time status, and anything else relevant to what was discussed in the “Factors to Consider” section will be housed in some part of the job posting. If you cannot find any information on pay, type of work demands, schedule, and more, then you may need to conduct research on the company to better understand the position. You may also need to ask these questions during the interview process. –&gt;"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#benefits",
+    "href": "pug-job-search-slides-2025.html#benefits",
+    "title": "Searching for Work",
+    "section": "Benefits",
+    "text": "Benefits\n\n\nThe benefits section may describe types of non-wage compensation such as health insurance, dental insurance, vision insurance, paid vacation leave, paid sick leave, retirement plans (401k or 403b matching), and more. These are important parts of any job you take on, so if there is limited information on benefits, be sure to ask this during the interview process.\nThe reader has a link to the Bureau of Labor Statistics’ salary and employment trends for reference."
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#share-your-results",
+    "href": "pug-job-search-slides-2025.html#share-your-results",
+    "title": "Searching for Work",
+    "section": "Share Your Results",
+    "text": "Share Your Results\n\nSelect some of your search results and review.\nCompare with neighbors the positions you’ve found.\n\nHow do the benefits differ?\nHow do the descriptions differ?\n\n\n\n\n\n−+\n03:00\n\n\n\n\ndoes anyone want to share what they found? we could compare and contrast"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#other-information",
+    "href": "pug-job-search-slides-2025.html#other-information",
+    "title": "Searching for Work",
+    "section": "Other Information",
+    "text": "Other Information\n\nReach out to people who are current or former employees\nRed flags…\n\nNo hard and fast rules, but check out company reviews on Glassdoor (Ch. 3, Section 1: “Employer’s Reputation”)\n\nJob scams (more here: https://careercenter.ucdavis.edu/job-and-internship-search/job-scams)\n\n\nGo to the employer’s LinkedIn page and look at “People”. It’s okay to send a DM!\nCan’t make promises about red flags"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#next-steps",
+    "href": "pug-job-search-slides-2025.html#next-steps",
+    "title": "Searching for Work",
+    "section": "Next Steps",
+    "text": "Next Steps\n\n\nSchedule a time or start date for your job search. Stick to it. Treat it like a part-time position.\nKeep track of your applications! Here is a Job Search Template that you can copy from Google Sheets: https://tinyurl.com/pug-search-sheet\nFind someone who can support you in this process.\nCheck out resources on campus\n\nUCD Career Center\nStudent Health & Counseling Services\nAsk people you know about their job search experiences (this could include TAs, instructors, etc.)\n\n\n\n\nFind someone: It can be the neighbor you chatted with today, a close friend or family member, or an advisor. Ultimately, the positions you apply for and the jobs you take is your choice, but it’ll be good to have someone who can help you look out for red flags. –&gt;"
+  },
+  {
+    "objectID": "pug-job-search-slides-2025.html#completed-the-final-step-for-today",
+    "href": "pug-job-search-slides-2025.html#completed-the-final-step-for-today",
+    "title": "Searching for Work",
+    "section": "Completed the Final Step for Today!",
+    "text": "Completed the Final Step for Today!\n\nPlease fill out this exit survey: https://tinyurl.com/pug-exit-survey\nOpen Q&A + Troubleshooting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearching for Work: https://tinyurl.com/pug-workshop"
   },
   {
     "objectID": "ch-03_what-comes-up.html",
@@ -151,293 +326,6 @@
     "href": "index.html",
     "title": "Overview",
     "section": "",
-    "text": "Agenda & Objectives\n\nIdentify sourcing channels frequently used by hiring managers\nSet up best job search practices\nInterpreting & deconstructing job ads\n\nComplete this survey to share your current interests, professional goals, and perspectives on the job search.\n\n\n\n\nToday’s Materials\nFor the workshop, we will actively discuss job search strategies. You will leave this workshop having completed tangible steps towards finding a full-time role.\nThe UC Davis Career Center has robust resources on career planning, job search strategy, and more. These are geared towards the general undergraduate population, but you can meet with a Career Center advisor to discuss tailored job search strategy.\n\nAdditional Career Center Resources\n\nCareer Planning\nResume Help"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#who-am-i",
-    "href": "pug-job-search-slides-2025.html#who-am-i",
-    "title": "Searching for Work",
-    "section": "Who am I?",
-    "text": "Who am I?\n\nMaia Southwick (she/her)\nPhD student studying developmental and quantitative psychology\nB.S. in Psychology (honors) and Health, Society, & Policy\n\neconomics, sociology, quantitative analysis\n\nWorked in a variety of professional contexts\n\n\nMention transitioning out of undergrad had its own challenges; happy to talk about this!"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#who-are-you",
-    "href": "pug-job-search-slides-2025.html#who-are-you",
-    "title": "Searching for Work",
-    "section": "Who are you?",
-    "text": "Who are you?\n\nTurn to your neighbor(s) and introduce yourself\n\nYour name, major, year in school\nWhy did you choose your major?\nWhat are your career goals?\n\n\n\n[if a smaller group, have everyone unmute themselves and speak]\nNow that we’ve introduced ourselves, let’s learn more about some strategies on how to take this mext step of your career journey together"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#typical-job-search-timeline",
-    "href": "pug-job-search-slides-2025.html#typical-job-search-timeline",
-    "title": "Searching for Work",
-    "section": "Typical Job Search Timeline",
-    "text": "Typical Job Search Timeline\n\n\n\n\nflowchart LR\n  A[Prepping materials] --&gt; B[Identifying &lt;br/&gt;positions]\n  B --&gt; C[Submitting &lt;br/&gt;applications]\n  C --&gt; D[Interviews]\n  D --&gt; E[Job Offer]\n\n\n\n\n\n\nWe will be focusing on identifying positions:\n\n\nRequires some understanding of your job needs and career goals (e.g., using online assessments)\nLearning where you can find open positions\nLearning how to implement effective search strategies\nDiscern between roles that align with your needs and expectations and those that don’t.\n\nTailor your application materials to the position ahead of submitting.\n\nQuestion in RSVP about when YOU should apply. It’s a dance. One reason why I pushed for a WQ workshop is spending SQ applying to jobs could be a good use of time. If you get a full-time offer, you can negotiate a start date.\n\n\n\nRecognition of privilege; some people may have more time or support to be “picky”, while others have other pressures that are driving their financial and professional decisions. Respect that."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#previous-experience",
-    "href": "pug-job-search-slides-2025.html#previous-experience",
-    "title": "Searching for Work",
-    "section": "Previous Experience",
-    "text": "Previous Experience\nHow have you found an open role in the past? Post in the chat or unmute!\n\n\nPose this question and have folks unmute or respond in the chat.\nAdd this to a chalkboard in Quarto presentation. Click ‘D’ to download drawings. Sometimes one of the hardest things of any new process, –&gt;"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#identifying-potential-employers-open-positions",
-    "href": "pug-job-search-slides-2025.html#identifying-potential-employers-open-positions",
-    "title": "Searching for Work",
-    "section": "Identifying Potential Employers & Open Positions",
-    "text": "Identifying Potential Employers & Open Positions\nChapter 1\n\n\nJob Boards\n\nLinkedIn, Handshake, Indeed, & more\n\nOrganizations’ Career Pages\nEvents\nNetworking & Informal Channels + Cold Outreach\n\n\n\nrefer to Ch. 1 in the reader for this part, if you want. 1. Job Boards: These can either be an open online community where hiring managers and companies post job ads, closed community spaces with job postings, or job ad aggregation sites which scrape the internet for posted job ads on other sites. a. this could include sites like Indeed, Handshake, and LinkedIn (amongst others). 2. Career Pages: You can often times apply through an organization’s website itself. This is direct, but makes searching a bit less efficient.\nOther ways include seeking out connections with employers, whether that’s by attending events such as career fairs, joining professional networks, or doing “cold outreach” (i.e., initiating contact with a hiring manager or someone else who could refer you to an open position).\nWe’ll focus on navigating LinkedIn for a job search, as many of the skills we’ll talk about could translate to other job search strategies."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#setting-up-an-account",
-    "href": "pug-job-search-slides-2025.html#setting-up-an-account",
-    "title": "Searching for Work",
-    "section": "Setting Up an Account",
-    "text": "Setting Up an Account\n\n\nSet-Up a Profile\n\nGo to linkedin.com: https://www.linkedin.com/.\nClick “Join now” under the three sign-in options.\nContinue to fill out the information requested.\n\nPost in chat, DM me, or unmute if you have any questions. Once you’re done, raise your hand.\n\n\nDevelop Your Profile\n\nIf you already have an account, you can refer to the Career Center page on profile tips here.*\nDuring this time, you can develop your profile by:\n\nChanging your headline & update your about section\nAdd in relevant experiences to your profile and describe them using bullet points: “ACTION VERB + CONTEXT = RESULTS”\n\n\nHere is my profile as an example (it’s not perfect): https://www.linkedin.com/in/maia-southwick/\n\n\n\n\n\n−+\n05:00\n\n\n\n\nWho has an account already? - if someone has an account, drop this link in the chat: https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others for them to work on their profiles during this time. If no one, have them take time to set-up an account and be on call for questions ~ 3 minutes.\nWhen you’re done, raise your hand or post in the chat.\nYou will need this for later in the workshop."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#objectives",
-    "href": "pug-job-search-slides-2025.html#objectives",
-    "title": "Searching for Work",
-    "section": "Objectives",
-    "text": "Objectives\nWhere to search?\n\n\nIdentify relevant places to source jobs\n\n\nHow to search?\n\n\nLeverage tools to aid your job search\nExplore possible job titles\n\n\nWhat comes up in the search?\n\n\nUnderstand the main components of a job posting to inform your search\n\n\n\nWhere to search includes: connecting with current and former employees"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#interim-qa",
-    "href": "pug-job-search-slides-2025.html#interim-qa",
-    "title": "Searching for Work",
-    "section": "Interim Q&A",
-    "text": "Interim Q&A\nQuestions about… - Psych-specific job boards? - Norms for reaching out to others about jobs? - ahhhhh!? 😬"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#linkedin-an-introduction",
-    "href": "pug-job-search-slides-2025.html#linkedin-an-introduction",
-    "title": "Searching for Work",
-    "section": "LinkedIn: An Introduction",
-    "text": "LinkedIn: An Introduction\nChapter 1, Section 2.1\n\n\nAt this point… Professionalized Facebook\nBUT useful for a variety of reasons:\n\nJob board\nNetworking\nBuilding an online presence\n\nLet’s check it out…\n\n\n\nOriginally a professional networking site, LinkedIn has expanded to cover multiple functionalities. This includes hosting job ads, learning courses, running news articles and more (including puzzles)."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#but-wait-a-qa",
-    "href": "pug-job-search-slides-2025.html#but-wait-a-qa",
-    "title": "Searching for Work",
-    "section": "But wait… a Q&A!",
-    "text": "But wait… a Q&A!\nQuestions about…\n\nPsych-specific job boards?\nNorms for reaching out to others about jobs?\nahhhhh!? 😬\n\n\nrefer to reader for examples, idealist is one of them"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#you-did-it",
-    "href": "pug-job-search-slides-2025.html#you-did-it",
-    "title": "Searching for Work",
-    "section": "You did it!",
-    "text": "You did it!"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#advantages",
-    "href": "pug-job-search-slides-2025.html#advantages",
-    "title": "Searching for Work",
-    "section": "Advantages",
-    "text": "Advantages\n\nBrainstorm with neighbors and Maia of positions they’re interested in\nTake time to generate search terms via ChatGPT\nTake time to set up a search alert\nConsider cold outreach"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#you-did-it-step-1",
-    "href": "pug-job-search-slides-2025.html#you-did-it-step-1",
-    "title": "Searching for Work",
-    "section": "You did it! Step 1",
-    "text": "You did it! Step 1\n\nyes"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#points-to-consider-in-a-job-search",
-    "href": "pug-job-search-slides-2025.html#points-to-consider-in-a-job-search",
-    "title": "Searching for Work",
-    "section": "Points to Consider in a Job Search",
-    "text": "Points to Consider in a Job Search\nChapter 2\n\n\nBe open-minded\nBe cautious\nBe patient\n\n\n\nSearching for a job may be hard for some, and easy for others.\nAt the end of the day, you are putting yourself out into the world, and you’re going to have to make some decisions.\n\nBe open-minded to positions that you would not have thought to apply to on your own. Broaden your options without necessarily lowering your standards.\nBe cautious: you’ll likely be applying to entry-level roles, so be sure to ask questions to potential employers about expectations for new hires and know what you can and CAN’t compromise on when it comes to pay and benefits.\nBe patient: applying for multiple roles requires some degree of persistence. Find ways to take care of yourself during this process."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#navigating-the-jobs-section-ch.-2-section-2",
-    "href": "pug-job-search-slides-2025.html#navigating-the-jobs-section-ch.-2-section-2",
-    "title": "Searching for Work",
-    "section": "Navigating the “Jobs” Section (Ch. 2, Section 2)",
-    "text": "Navigating the “Jobs” Section (Ch. 2, Section 2)\n\nHopping over to LinkedIn!"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#specify-search-terms",
-    "href": "pug-job-search-slides-2025.html#specify-search-terms",
-    "title": "Searching for Work",
-    "section": "Specify Search Terms",
-    "text": "Specify Search Terms\n\nBrainstorm with neighbors and Maia of positions they’re interested in\nTake time to generate search terms via ChatGPT\nTake time to set up a search alert\nConsider cold outreach"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#your-turn",
-    "href": "pug-job-search-slides-2025.html#your-turn",
-    "title": "Searching for Work",
-    "section": "Your Turn!",
-    "text": "Your Turn!\n\n\nWhat are are some example job titles?\n\nPost in chat or on the whiteboard.\n\nLet’s try another way! https://chatgpt.com/\n\nExample job titles: https://tinyurl.com/mppvyf49\nPossible job families (https://www.imaginephd.com/job-families) or https://www.science.org/content/article/myidp.\nTake a couple minutes to generate some search terms\nYou could even ask ChatGPT, “What are some job titles for entry-level roles requiring a psychology degree?”\n\nFeel free to push it to be more specific.\nFind other prompts here (UCD Career Center: https://careercenter.ucdavis.edu/resumes-and-materials/using-ai)\n\nWe’ll come back to share what we’ve found.\n\n\n\n\n\n\n−+\n10:00\n\n\n\n\nTake time to generate search terms via ChatGPT:\n\nHere is what I asked ChatGPT, “What are some related keywords to a behavior technician position?”. It generated keywords related to the role I was interested in (Behavior Technician), skills, work environment, and more. For our purposes, we will use the ‘General Role Keywords’ to plug into our LinkedIn search. However, you can use the other keyword output as search terms too.\n\n2 minutes for people to try, then ask for term"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#step-1-complete",
-    "href": "pug-job-search-slides-2025.html#step-1-complete",
-    "title": "Searching for Work",
-    "section": "Step 1 Complete!",
-    "text": "Step 1 Complete!"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#what-did-you-find",
-    "href": "pug-job-search-slides-2025.html#what-did-you-find",
-    "title": "Searching for Work",
-    "section": "What did you find?",
-    "text": "What did you find?\nPost in the chat or unmute."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#actually-searching-ch.-2-section-2.2.2",
-    "href": "pug-job-search-slides-2025.html#actually-searching-ch.-2-section-2.2.2",
-    "title": "Searching for Work",
-    "section": "Actually Searching (Ch. 2, Section 2.2.2)",
-    "text": "Actually Searching (Ch. 2, Section 2.2.2)\n\nAfter putting in key terms, there are a couple of different things you can do:\n\nFiltering:\n\nExperience level\nEasy apply\nSalary\n\nSet up search alerts\n\nDirect alerts from an organization’s profile\nManage those search alerts in your email inbox!\n\nIdentify potential employers"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#navigating-the-jobs-section",
-    "href": "pug-job-search-slides-2025.html#navigating-the-jobs-section",
-    "title": "Searching for Work",
-    "section": "Navigating the “Jobs” Section",
-    "text": "Navigating the “Jobs” Section\nChapter 2, Section 2\n\nHopping over to LinkedIn!\nBe able to identify the:\n\nSearch box\nSet-up a search alert\nJob postings\n\n\n\nLook at reader and go through key terms, and parts of the job board"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#actually-searching",
-    "href": "pug-job-search-slides-2025.html#actually-searching",
-    "title": "Searching for Work",
-    "section": "Actually Searching",
-    "text": "Actually Searching\nChapter 2, Section 2.2.2\nAfter putting in key terms, there are a couple of different things you can do:\n\n\n\nFiltering:\n\nExperience level\nEasy apply\nSalary\n\n\n\n\nSet up search alerts\n\nDirect alerts from an organization’s profile\nManage those search alerts in your email inbox!\n\nIdentify potential employers\n\n\n\n\nlean on reader for this part"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#what-is-a-priority-that-you-have-when-searching-for-work",
-    "href": "pug-job-search-slides-2025.html#what-is-a-priority-that-you-have-when-searching-for-work",
-    "title": "Searching for Work",
-    "section": "What is a priority that you have when searching for work?",
-    "text": "What is a priority that you have when searching for work?\nReview Results\n\nSelect some of those search results and review.\nCompare with neighbors the positions you’ve found.\n\nHow do the benefits differ?\nHow do the descriptions differ?\n\nreach out to people who are current or former employees"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#step-2-complete",
-    "href": "pug-job-search-slides-2025.html#step-2-complete",
-    "title": "Searching for Work",
-    "section": "Step 2 Complete!",
-    "text": "Step 2 Complete!"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#what-are-you-looking-for-in-a-role-whats-important-to-you",
-    "href": "pug-job-search-slides-2025.html#what-are-you-looking-for-in-a-role-whats-important-to-you",
-    "title": "Searching for Work",
-    "section": "What are you looking for in a role? What’s important to you?",
-    "text": "What are you looking for in a role? What’s important to you?\nChapter 3, Section 1\n\nPost in the chat or unmute!\n\n\nFeel free to give examples: PAY, location, benefits, sponsorship, job type, upwards mobility, flexible schedule, good workplace culture, effective management; Plug in the reader, as it also has links to the UCD Career page on how to “do your own research”."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#review-results",
-    "href": "pug-job-search-slides-2025.html#review-results",
-    "title": "Searching for Work",
-    "section": "Review Results",
-    "text": "Review Results\n\nSelect some of those search results and review.\nCompare with neighbors the positions you’ve found.\n\nHow do the benefits differ?\nHow do the descriptions differ?\n\nreach out to people who are current or former employees"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#what-comprises-a-job-posting",
-    "href": "pug-job-search-slides-2025.html#what-comprises-a-job-posting",
-    "title": "Searching for Work",
-    "section": "What comprises a job posting?",
-    "text": "What comprises a job posting?\n\n\nFor this section, we will be referring to this UCD Research Analyst position as a running example. The LinkedIn posting can be found here. While this section is referring to a LinkedIn job posting, these components can be found in job ads on other platforms. However, it’s likely that other job postings do not contain all of the elements below, or they may contain additional elements."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#job-summary",
-    "href": "pug-job-search-slides-2025.html#job-summary",
-    "title": "Searching for Work",
-    "section": "Job Summary",
-    "text": "Job Summary\n\n\nThe first portion of a job posting will likely contain a paragraph description of the job’s position within an organization and primary roles and responsibilities. This will provide a good gist of how the employer would expect someone to succeed in the position."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#qualifications",
-    "href": "pug-job-search-slides-2025.html#qualifications",
-    "title": "Searching for Work",
-    "section": "Qualifications",
-    "text": "Qualifications\n\nConsider applying even if you don’t meet 100% of the qualifications!\n\nNext, a job posting will list the hiring team’s expectations of skills, experience, and/or education deemed necessary to succeed in the position. Any necessary qualifications could be labeled as “Must Haves”, “Minimum Qualifications”, “Required Qualifications”, and more.\nSometimes, a posting will also list “Preferred Qualifications” or “Nice-to-Haves”. These are skills, experience, and/or education not necessary for being considered for the role, but they may help you stand out as a job candidate."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#job-responsibilities",
-    "href": "pug-job-search-slides-2025.html#job-responsibilities",
-    "title": "Searching for Work",
-    "section": "Job Responsibilities",
-    "text": "Job Responsibilities\n\n\nThe day-to-day tasks of a position will often be listed under a specific “responsibilities” section. If there’s limited information, you can ask for more clarification on responsibilities during the interview process. The responsibilities listed will also cue you in to the types of skills and experiences a hiring manager is looking for."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#position-information",
-    "href": "pug-job-search-slides-2025.html#position-information",
-    "title": "Searching for Work",
-    "section": "Position Information",
-    "text": "Position Information\n\n\nAdditional information on pay, frequency of pay, schedule, part-time/full-time status, and anything else relevant to what was discussed in the “Factors to Consider” section will be housed in some part of the job posting. If you cannot find any information on pay, type of work demands, schedule, and more, then you may need to conduct research on the company to better understand the position. You may also need to ask these questions during the interview process. –&gt;"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#benefits",
-    "href": "pug-job-search-slides-2025.html#benefits",
-    "title": "Searching for Work",
-    "section": "Benefits",
-    "text": "Benefits\n\n\nThe benefits section may describe types of non-wage compensation such as health insurance, dental insurance, vision insurance, paid vacation leave, paid sick leave, retirement plans (401k or 403b matching), and more. These are important parts of any job you take on, so if there is limited information on benefits, be sure to ask this during the interview process.\nThe reader has a link to the Bureau of Labor Statistics’ salary and employment trends for reference."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#share-your-results",
-    "href": "pug-job-search-slides-2025.html#share-your-results",
-    "title": "Searching for Work",
-    "section": "Share Your Results",
-    "text": "Share Your Results\n\nSelect some of your search results and review.\nCompare with neighbors the positions you’ve found.\n\nHow do the benefits differ?\nHow do the descriptions differ?\n\n\n\n\n\n−+\n03:00\n\n\n\n\ndoes anyone want to share what they found? we could compare and contrast"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#other-information",
-    "href": "pug-job-search-slides-2025.html#other-information",
-    "title": "Searching for Work",
-    "section": "Other Information",
-    "text": "Other Information\n\nReach out to people who are current or former employees\nRed flags…\n\nNo hard and fast rules, but check out company reviews on Glassdoor (Ch. 3, Section 1: “Employer’s Reputation”)\n\nJob scams (more here: https://careercenter.ucdavis.edu/job-and-internship-search/job-scams)\n\n\nGo to the employer’s LinkedIn page and look at “People”. It’s okay to send a DM!\nCan’t make promises about red flags"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#next-steps",
-    "href": "pug-job-search-slides-2025.html#next-steps",
-    "title": "Searching for Work",
-    "section": "Next Steps",
-    "text": "Next Steps\n\n\nSchedule a time or start date for your job search. Stick to it. Treat it like a part-time position.\nKeep track of your applications! Here is a Job Search Template that you can copy from Google Sheets: https://tinyurl.com/pug-search-sheet\nFind someone who can support you in this process.\nCheck out resources on campus\n\nUCD Career Center\nStudent Health & Counseling Services\nAsk people you know about their job search experiences (this could include TAs, instructors, etc.)\n\n\n\n\nFind someone: It can be the neighbor you chatted with today, a close friend or family member, or an advisor. Ultimately, the positions you apply for and the jobs you take is your choice, but it’ll be good to have someone who can help you look out for red flags. –&gt;"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#final-step-for-today",
-    "href": "pug-job-search-slides-2025.html#final-step-for-today",
-    "title": "Searching for Work",
-    "section": "Final Step for Today!",
-    "text": "Final Step for Today!\n\n\n\nSearching for Work: https://tinyurl.com/pug-workshop"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#completed-the-final-step-for-today",
-    "href": "pug-job-search-slides-2025.html#completed-the-final-step-for-today",
-    "title": "Searching for Work",
-    "section": "Completed the Final Step for Today!",
-    "text": "Completed the Final Step for Today!\n\nPlease fill out this exit survey: https://tinyurl.com/pug-exit-survey\nOpen Q&A + Troubleshooting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearching for Work: https://tinyurl.com/pug-workshop"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#first-workshop-component---assess-your-interests",
-    "href": "pug-job-search-slides-2025.html#first-workshop-component---assess-your-interests",
-    "title": "Searching for Work",
-    "section": "First Workshop Component - Assess Your Interests",
-    "text": "First Workshop Component - Assess Your Interests\n\nhttps://www.imaginephd.com/users/sign-in\n\nCreate Account\nInterests Assessment\nALSO: Resources &gt;&gt; Job Family Resources\n\nhttps://myidp.sciencecareers.org/\n\nCreate Account\nInterests Assessment\nConsider Career Fit\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#what-did-you-find-out",
-    "href": "pug-job-search-slides-2025.html#what-did-you-find-out",
-    "title": "Searching for Work",
-    "section": "What Did You Find Out?",
-    "text": "What Did You Find Out?\nPost in chat or unmute and share what job family or positions came up for you?\n\nI will keep track of these and maybe use these as an example in future parts of this workshop."
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#do-an-assessment",
-    "href": "pug-job-search-slides-2025.html#do-an-assessment",
-    "title": "Searching for Work",
-    "section": "Do an Assessment",
-    "text": "Do an Assessment\n\nhttps://www.imaginephd.com/users/sign-in\n\nCreate Account\nInterests Assessment\nALSO: Resources &gt;&gt; Job Family Resources\n\nhttps://myidp.sciencecareers.org/\n\nCreate Account\nInterests Assessment\nConsider Career Fit\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "pug-job-search-slides-2025.html#if-you-already-have-an-account-you-can-refer-to-the-career-center-page-on-profile-tips-here.",
-    "href": "pug-job-search-slides-2025.html#if-you-already-have-an-account-you-can-refer-to-the-career-center-page-on-profile-tips-here.",
-    "title": "Searching for Work",
-    "section": "If you already have an account, you can refer to the Career Center page on profile tips here.",
-    "text": "If you already have an account, you can refer to the Career Center page on profile tips here.\nHere is my profile as an example (it’s not perfect): https://www.linkedin.com/in/maia-southwick/"
+    "text": "Agenda & Objectives\n\nIdentify sourcing channels frequently used by hiring managers\nSet up best job search practices\nInterpreting & deconstructing job ads\n\nSign-in here if you are taking this workshop for course credit. \n\n\n\n\nToday’s Materials\nFor the workshop, we will actively discuss job search strategies. You will leave this workshop having completed tangible steps towards finding a full-time role.\nThe UC Davis Career Center has robust resources on career planning, job search strategy, and more. These are geared towards the general undergraduate population, but you can meet with a Career Center advisor to discuss tailored job search strategy.\n\nAdditional Career Center Resources\n\nCareer Planning\nResume Help"
   }
 ]
