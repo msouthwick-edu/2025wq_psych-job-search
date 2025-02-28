@@ -102,19 +102,45 @@ We will be focusing on **identifying positions**:
 Recognition of privilege; some people may have more time or support to be "picky", while others have other pressures that are driving their financial and professional decisions. Respect that.
 :::
 
+# Step 0: What are Your Interests?
+
+## Do an Assessment {.smaller}
+
+- [https://www.imaginephd.com/users/sign-in](https://www.imaginephd.com/users/sign-in)
+  - Create Account
+  - Interests Assessment
+  - ALSO: Resources >> Job Family Resources
+- [https://myidp.sciencecareers.org/](https://myidp.sciencecareers.org/)
+  - Create Account
+  - Interests Assessment
+  - Consider Career Fit
+
+
+```{r, echo=FALSE}
+countdown(minutes = 10, seconds = 00) 
+```
+
+## What Did You Find Out?
+
+*Post in chat or unmute and share what job family or positions came up for you?*
+
+::: {.notes}
+I will keep track of these and maybe use these as an example in future parts of this workshop.
+:::
+
 # Step 1: Where to Search
 
 ## Previous Experience
 
 **How have you found an open role in the past?**
-
-- *Post in the chat or unmute!*
+*Post in the chat or unmute!*
 
 ::: {.notes}
 1. Pose this question and have folks unmute or respond in the chat.
 2. Add this to a chalkboard in Quarto presentation. Click 'D' to download drawings.
 Sometimes one of the hardest things of any new process, -->
 :::
+
 
 ## Identifying Potential Employers & Open Positions
 *Chapter 1*
@@ -166,22 +192,41 @@ refer to reader for examples, idealist is one of them
 Originally a professional networking site, LinkedIn has expanded to cover multiple functionalities. This includes hosting job ads, learning courses, running news articles and more (including puzzles). 
 :::
 
-## Setting Up an Account
-*Optional, but it'll be a part of future activities*
+## Setting Up an Account {.smaller}
 
-1. Go to linkedin.com: https://www.linkedin.com/.
+::: {.columns}
+
+::: {.column width="40%"}
+
+### Set-Up a Profile
+1. Go to linkedin.com: [https://www.linkedin.com/](https://www.linkedin.com/).
 2. Click “Join now” under the three sign-in options.
 3. Continue to fill out the information requested.
 
 **Post in chat, DM me, or unmute if you have any questions.** 
 **Once you're done, raise your hand.**
+:::
 
+::: {.column width="60%" .fragment}
+
+### Develop Your Profile
+
+- If you already have an account, you can refer to the Career Center page on profile tips [here](https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others).*
+- During this time, you can develop your profile by:
+  - Changing your headline & update your about section
+  - Add in relevant experiences to your profile and describe them using bullet points: "ACTION VERB + CONTEXT = RESULTS"
+
+Here is my profile as an example (it's not perfect): [https://www.linkedin.com/in/maia-southwick/](https://www.linkedin.com/in/maia-southwick/)
+:::
+
+:::
 ```{r, echo=FALSE}
-countdown(minutes = 3, seconds = 00) 
+countdown(minutes = 5, seconds = 00) 
 ```
 
 ::: {.notes}
 Who has an account already? 
+- if someone has an account, drop this link in the chat: https://careercenter.ucdavis.edu/job-and-internship-search/finding-positions/linkedin-and-others for them to work on their profiles during this time.
 If no one, have them take time to set-up an account and be on call for questions ~ 3 minutes.
 
 When you're done, raise your hand or post in the chat.
@@ -399,8 +444,14 @@ Can't make promises about red flags
 Find someone: It can be the neighbor you chatted with today, a close friend or family member, or an advisor. Ultimately, the positions you apply for and the jobs you take is your choice, but it'll be good to have someone who can help you look out for red flags. -->
 :::
 
-## Completed the Final Step for Today!
+## Completed the Final Step for Today! {.smaller}
 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng3ODA5eHRudHdxODU4aXhnbnE4NXdsdHc0ZW1nNHhhMGtqZWczMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif){fig-align="center"}
+- Please fill out this exit survey: [https://tinyurl.com/pug-exit-survey](https://tinyurl.com/pug-exit-survey)
+- Open Q&A + Troubleshooting
 
-**Open Q&A + Troubleshooting**
+::: {layout-ncol=2}
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng3ODA5eHRudHdxODU4aXhnbnE4NXdsdHc0ZW1nNHhhMGtqZWczMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif){fig-align="left" width=200% height=200%}
+
+![](exit-survey.png){fig-align="right" width="400" height="400"} 
+:::
+

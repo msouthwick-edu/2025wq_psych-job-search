@@ -11,7 +11,7 @@ format: html
 2.  Set up best job search practices
 3.  Interpreting & deconstructing job ads
 
-[**Complete this survey**](https://docs.google.com/forms/d/e/1FAIpQLSf5nuCVaqKwg1xN35VcMVQjhaDWHWumVd_8LV-RtfHD3XIl3Q/viewform?usp=sharing) **to share your current interests, professional goals, and perspectives on the job search.**
+<!-- [**Complete this survey**](https://docs.google.com/forms/d/e/1FAIpQLSf5nuCVaqKwg1xN35VcMVQjhaDWHWumVd_8LV-RtfHD3XIl3Q/viewform?usp=sharing) **to share your current interests, professional goals, and perspectives on the job search.** -->
 
 <!--- Survey pre-workshop on comfortableness and other insightful questions + post-survey
 plus follow-up survey by end of spring quarter --->
